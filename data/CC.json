@@ -1,0 +1,365 @@
+{
+    "ids": [
+      {
+        "type": "cookie",
+        "value": "16510075-1ca3-4be8-8c9f-2e5c05575e3a",
+        "uid": "cookie=16510075-1ca3-4be8-8c9f-2e5c05575e3a",
+        "label": "IDENTIFIER"
+      }
+    ],
+    "profile": {
+      "product_views": 9,
+      "frequency": 0,
+      "recency": 19245,
+      "main_category_detection": "women",
+      "main_subcategory_detection": [
+        "women - fashion footwear",
+        "women - fashion women's clothing"
+      ],
+      "abandoned_cart": [],
+      "campaign_1000_clicked": 0,
+      "campaign_1001_clicked": 0,
+      "campaign_1001_converted": 0,
+      "product_viewing_now": {
+        "id": "60b02d34a00f975bf5d0d1f8",
+        "price": 64.5,
+        "label": "Lee Women Paula Blue Top",
+        "category": "Women",
+        "brand": "RECOMMENDATION ENGINE",
+        "sub_category": "Women - fashion women's clothing"
+      },
+      "RecEngine-Customer2Product": {
+        "status": "success",
+        "user_id": "16510075-1ca3-4be8-8c9f-2e5c05575e3a",
+        "recommendations": {
+          "customer2product": {
+            "0": {
+              "product": {
+                "name": "Puma Women Black Mabel Flats",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/29237.jpg"
+                ],
+                "_id": "60b02d35a00f975bf5d0d2df"
+              },
+              "rating_pred": -1.0234715195092843
+            },
+            "1": {
+              "product": {
+                "name": "Runway Gold-Tone Smartwatch",
+                "store": "MICHAEL KORS",
+                "price": {
+                  "amount": 449.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 349.99,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "f55428a32e89f6dbc9d245dba8f3f45965004516/thumbnails/e7ead6c8333e45bed186fe1cf3cba0171c3b2684",
+                  "f55428a32e89f6dbc9d245dba8f3f45965004516/thumbnails/def95144205717119b60b1b64d1b942febe55b0f",
+                  "f55428a32e89f6dbc9d245dba8f3f45965004516/thumbnails/b3f43581fc0d9c848bf41ff1d172f5c9e18b6f94",
+                  "f55428a32e89f6dbc9d245dba8f3f45965004516/thumbnails/e85ac25af7d05c53dc7516ae3e6ffcca0d7629c1",
+                  "f55428a32e89f6dbc9d245dba8f3f45965004516/thumbnails/7a191c5918466c3bd60651aa9138eadbe90ca9fa"
+                ],
+                "_id": "5c8c23d66a4db90048956601"
+              },
+              "rating_pred": 4.7063013592226195
+            },
+            "2": {
+              "product": {
+                "name": "Pitaraa Golden Fish Scale Necklace",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/48343.jpg"
+                ],
+                "_id": "60b02d34a00f975bf5d0d1e6"
+              },
+              "rating_pred": -28.2521786908908
+            },
+            "3": {
+              "product": {
+                "name": "Baggit Women Black Handbag",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/47419.jpg"
+                ],
+                "_id": "60b02d35a00f975bf5d0d30c"
+              },
+              "rating_pred": -49.89845595264533
+            },
+            "4": {
+              "product": {
+                "name": "Inc.5  Women Grey Flats",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/22539.jpg"
+                ],
+                "_id": "60b02d34a00f975bf5d0d18c"
+              },
+              "rating_pred": 3.2143082228078512
+            }
+          }
+        }
+      },
+      "RecEngine-Product2Product": {
+        "status": "success",
+        "product_id": "60b02d34a00f975bf5d0d1f8",
+        "recommendations": {
+          "product2product": {
+            "0": {
+              "product": {
+                "name": "Scullers Women Solid Purple Scarves",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/11139.jpg"
+                ],
+                "_id": "60b02d35a00f975bf5d0d2e5"
+              }
+            },
+            "1": {
+              "product": {
+                "name": "Enroute Women Casual Black Casual Shoes",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/14430.jpg"
+                ],
+                "_id": "60b02d34a00f975bf5d0d21f"
+              }
+            },
+            "2": {
+              "product": {
+                "name": "Lucera Silver Ring",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/59468.jpg"
+                ],
+                "_id": "60b02d35a00f975bf5d0d379"
+              }
+            },
+            "3": {
+              "product": {
+                "name": "Allen Solly Woman Purple Bangle",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/35128.jpg"
+                ],
+                "_id": "60b02d35a00f975bf5d0d33b"
+              }
+            },
+            "4": {
+              "product": {
+                "name": "Puma Women Grey Techno Ind Sandals",
+                "store": "RECOMMENDATION ENGINE",
+                "price": {
+                  "amount": 89.99,
+                  "currency": "USD"
+                },
+                "marked_price": {
+                  "amount": 64.5,
+                  "currency": "USD"
+                },
+                "thumbnailUrls": [
+                  "rec-engine-images-v20210414/43957.jpg"
+                ],
+                "_id": "60b02d34a00f975bf5d0d11b"
+              }
+            }
+          }
+        }
+      }
+    },
+    "events": [
+      {
+        "type": "product_view",
+        "timestamp": 1628127958,
+        "uid": "PRODUCT_VIEW=a83cea4f-275a-4174-9726-9adce4deb388",
+        "props": {
+          "type": "PRODUCT_VIEW",
+          "timestamp": 1628127958,
+          "product": {
+            "id": "60b02d34a00f975bf5d0d189",
+            "price": 64.5,
+            "label": "Jealous 21 Women Black Jegging",
+            "category": "Women",
+            "brand": "RECOMMENDATION ENGINE",
+            "sub_category": "Women - fashion women's clothing"
+          }
+        },
+        "label": "EVENT"
+      },
+      {
+        "type": "product_view",
+        "timestamp": 1628127965,
+        "uid": "PRODUCT_VIEW=6a54ffa9-af1a-4663-a99f-685a471a067d",
+        "props": {
+          "type": "PRODUCT_VIEW",
+          "timestamp": 1628127965,
+          "product": {
+            "id": "60b02d33a00f975bf5d0d104",
+            "price": 64.5,
+            "label": "Skechers Women Green Shoe",
+            "category": "Women",
+            "brand": "RECOMMENDATION ENGINE",
+            "sub_category": "Women - fashion footwear"
+          }
+        },
+        "label": "EVENT"
+      },
+      {
+        "type": "product_view",
+        "timestamp": 1628127967,
+        "uid": "PRODUCT_VIEW=7e74d13e-5cc1-4501-b247-2065e499f463",
+        "props": {
+          "type": "PRODUCT_VIEW",
+          "timestamp": 1628127967,
+          "product": {
+            "id": "60b02d34a00f975bf5d0d10c",
+            "price": 64.5,
+            "label": "Carlton London Women Blue & Cream Shoes",
+            "category": "Women",
+            "brand": "RECOMMENDATION ENGINE",
+            "sub_category": "Women - fashion footwear"
+          }
+        },
+        "label": "EVENT"
+      },
+      {
+        "type": "product_view",
+        "timestamp": 1628127970,
+        "uid": "PRODUCT_VIEW=f8c07543-12e4-4afd-bd6e-0b17616bd414",
+        "props": {
+          "type": "PRODUCT_VIEW",
+          "timestamp": 1628127970,
+          "product": {
+            "id": "60b02d34a00f975bf5d0d117",
+            "price": 64.5,
+            "label": "Crocs Dora Boots Pink Sandals",
+            "category": "Women",
+            "brand": "RECOMMENDATION ENGINE",
+            "sub_category": "Women - fashion footwear"
+          }
+        },
+        "label": "EVENT"
+      },
+      {
+        "type": "product_view",
+        "timestamp": 1628127972,
+        "uid": "PRODUCT_VIEW=f5597451-4b42-43d3-8ed8-e78e9e912d26",
+        "props": {
+          "type": "PRODUCT_VIEW",
+          "timestamp": 1628127972,
+          "product": {
+            "id": "60b02d33a00f975bf5d0d0fc",
+            "price": 64.5,
+            "label": "Catwalk Women Leather Brown Flats",
+            "category": "Women",
+            "brand": "RECOMMENDATION ENGINE",
+            "sub_category": "Women - fashion footwear"
+          }
+        },
+        "label": "EVENT"
+      },
+      {
+        "type": "product_view",
+        "timestamp": 1628127977,
+        "uid": "PRODUCT_VIEW=c9575226-bc04-4f91-998b-aab2add55ad8",
+        "props": {
+          "type": "PRODUCT_VIEW",
+          "timestamp": 1628127977,
+          "product": {
+            "id": "60b02d34a00f975bf5d0d1b2",
+            "price": 64.5,
+            "label": "Tonga Women Maroon Top",
+            "category": "Women",
+            "brand": "RECOMMENDATION ENGINE",
+            "sub_category": "Women - fashion women's clothing"
+          }
+        },
+        "label": "EVENT"
+      },
+      {
+        "type": "product_view",
+        "timestamp": 1628127980,
+        "uid": "PRODUCT_VIEW=0614d04a-fa4b-4adb-815b-4fc264e7fc2b",
+        "props": {
+          "type": "PRODUCT_VIEW",
+          "timestamp": 1628127980,
+          "product": {
+            "id": "60b02d34a00f975bf5d0d1f8",
+            "price": 64.5,
+            "label": "Lee Women Paula Blue Top",
+            "category": "Women",
+            "brand": "RECOMMENDATION ENGINE",
+            "sub_category": "Women - fashion women's clothing"
+          }
+        },
+        "label": "EVENT"
+      }
+    ]
+  }

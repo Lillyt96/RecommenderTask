@@ -1,0 +1,664 @@
+product_id,product_category_name,product_category_name_eng,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm,sample,img,gender,article_type,colour,season,title,revenue,margin,promotion
+f6574524b07d5bb753bab6f35abe2d06,malas_acessorios,bags accessories,52,573,5,3600,35,25,50,1,49005.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,59.97,26.39,0
+4c8056caed5757810b9a68b83c3759e6,malas_acessorios,bags accessories,53,1291,2,450,20,40,30,1,48311.jpg,Women,Bracelet,Bronze,Winter,Pitaraa Women Bronze Beaded Bracelet,19.95,8.38,1
+30e77af9e7759bbaa0305d2fbc605dc4,fashion_calcados,fashion footwear,60,402,2,2000,32,12,37,1,8574.jpg,Women,Sandals,Pink,Fall,Crocs Dora Boots Pink Sandals,109.97,37.39,0
+1eb4a9aee05c9cad041e09add2a26d68,malas_acessorios,bags accessories,51,244,1,800,38,8,28,1,35322.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,29.95,14.08,0
+65a6462e42e05ab3b8dc613566736825,malas_acessorios,bags accessories,49,540,4,1100,39,12,28,1,35128.jpg,Women,Bracelet,Purple,Winter,Allen Solly Woman Purple Bangle,19.98,8.59,0
+6d14f72afff32795290f2df6507f063c,malas_acessorios,bags accessories,59,413,3,2300,84,14,20,1,48320.jpg,Women,Bracelet,Silver,Winter,Pitaraa Silver Omelette Thin Bracelet,79.96,35.98,1
+a04cf12934a318be6550b1aeab938bf2,fashion_calcados,fashion footwear,59,605,5,4000,57,14,36,1,54118.jpg,Women,Heels,Black,Winter,Rocia Women Black Flats,59.97,19.19,0
+f6691c7e7a0c12d28003c97608dfe605,fashion_roupa_masculina,fashion menswear,47,1026,2,950,40,6,40,1,39386.jpg,Men,Jeans,Blue,Summer,Peter England Men Party Blue Jeans,79.96,3.2,0
+795ed173180b101b114960e572d2181f,malas_acessorios,bags accessories,43,215,1,700,45,10,31,1,56214.jpg,Women,Earrings,Gold,Winter,Estelle Women Gold Earrings,19.98,9.19,0
+0a17941f41b99d2f070fab54b458a4a4,malas_acessorios,bags accessories,28,453,1,300,16,23,19,1,48927.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,19.96,8.78,1
+5cfe07a11fd4f35d3c5ca21cd60cee6e,fashion_calcados,fashion footwear,54,404,4,750,22,12,33,1,43957.jpg,Women,Sandals,Grey,Fall,Puma Women Grey Techno Ind Sandals,119.99,37.2,0
+8a4667ce8c036b0d54dd65a38298bfc0,malas_acessorios,bags accessories,45,224,1,950,46,10,33,1,25947.jpg,Women,Scarves,Brown,Summer,Femella Women Brown Scarf,69.99,8.4,1
+ef22b718807d8b96162d9b021912f178,fashion_roupa_masculina,fashion menswear,36,940,2,300,16,2,11,1,15970.jpg,Men,Shirts,Navy Blue,Fall,Turtle Check Men Navy Blue Shirt,99.97,12,0
+e8f22df5fa5b454907286aa61d6216a8,fashion_calcados,fashion footwear,57,404,2,1500,22,12,33,1,4140.jpg,Women,Casual Shoes,Green,Winter,Skechers Women Green Shoe,69.95,27.28,0
+5e459bd31247ee46fa95b09556600a6a,fashion_calcados,fashion footwear,44,284,12,300,29,7,16,1,59051.jpg,Women,Flats,Black,Winter,Carlton London Women Black & Gold Toned Flats,119.97,10.8,1
+a2bd2eae20998a24c22b110334928b02,malas_acessorios,bags accessories,39,278,1,700,19,48,35,1,53108.jpg,Women,Earrings,Silver,Winter,Fabindia Silver Earrings,59.95,26.98,0
+55103cbbe0851d3a303a022cc4140628,malas_acessorios,bags accessories,32,1064,5,2900,40,55,30,1,47957.jpg,Women,Handbags,Blue,Summer,Murcia Women Blue Handbag,89.98,9,0
+1c36a5285f7f3b1ed2637d7c528ce5ff,malas_acessorios,bags accessories,21,769,4,1600,55,37,30,1,49034.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,89.98,38.69,0
+e19c8e70d39de9646d64163a66051797,fashion_roupa_masculina,fashion menswear,32,713,2,800,20,7,20,1,16508.jpg,Men,Jeans,Blue,Fall,Locomotive Men Washed Blue Jeans,69.98,4.2,0
+2b27cb23faa03f71607fcdd1539387f3,malas_acessorios,bags accessories,59,857,7,1100,35,14,29,1,52224.jpg,Women,Necklace and Chains,Silver,Summer,Lencia Grey Swarovski Pearl Necklace,99.98,42.99,0
+89f46d1e213867388c2fac6078f5c06d,fashion_roupa_feminina,fashion women's clothing,43,754,2,500,16,2,11,1,39716.jpg,Women,Dresses,Blue,Summer,Arrow Woman Women Blue Dress,79.97,9.6,0
+5ad04927f75f1ec98ff4458470452b01,malas_acessorios,bags accessories,41,1047,1,2240,76,10,14,1,25940.jpg,Women,Scarves,Yellow,Summer,Femella Women Yellow & Blue Scarf,9.96,0.5,0
+20ee98f10c16f05a43db060ab1cbfd7e,fashion_calcados,fashion footwear,48,375,6,100,29,7,16,1,33697.jpg,Women,Sandals,Brown,Summer,Cobblerz Women Brown Sandals,129.98,51.99,0
+95f2828625576b34ab861ef4b029a7fd,fashion_roupa_masculina,fashion menswear,33,939,2,950,40,6,35,1,30805.jpg,Men,Shirts,Green,Summer,Fabindia Men Striped Green Shirt,99.98,12,0
+1fceb6597ec80646345b1d8517b48cb2,malas_acessorios,bags accessories,42,413,1,700,16,30,20,1,59263.jpg,Women,Watches,Silver,Winter,Titan Women Silver Watch,39.99,18.8,1
+bae8ac5e125a98fe445bc17714104709,malas_acessorios,bags accessories,57,455,3,10700,40,100,16,1,47359.jpg,Women,Handbags,Brown,Summer,Baggit Women Brown Handbag,59.99,2.4,0
+e9896cd67d67e394cc2d3b0ecfd11eb2,malas_acessorios,bags accessories,56,488,3,17150,36,48,56,1,25949.jpg,Women,Scarves,Brown,Summer,Femella Women Printed Brown Scarf,99.96,4,0
+85d187257cdbf2692d10649a11c7e78b,malas_acessorios,bags accessories,47,414,1,2000,35,27,12,1,56213.jpg,Women,Earrings,Gold,Winter,Estelle Women Gold Earrings,99.98,45.99,0
+ddddff18d8f990347156c317421df46d,malas_acessorios,bags accessories,47,114,1,1000,35,10,34,1,21977.jpg,Women,Handbags,Brown,Winter,Murcia Women Casual Brown Handbag,69.95,7,1
+2e04efb6656990084af256e304d9a573,malas_acessorios,bags accessories,54,1632,6,650,20,40,50,1,25948.jpg,Women,Scarves,Green,Summer,Femella Women Green Scarf,89.98,5.4,0
+42830ac3bef5dc8b398055683e52ad9a,malas_acessorios,bags accessories,52,1030,4,325,24,19,20,1,58183.jpg,Women,Handbags,White,Summer,Rocky S Women White Handbag,109.98,13.2,0
+e40c9663823a220588b8f0c552ff5c03,fashion_roupa_masculina,fashion menswear,54,275,2,750,40,6,35,1,12369.jpg,Men,Shirts,Purple,Fall,Reid & Taylor Men Check Purple Shirts,29.95,2.7,0
+f2f960ea3804c29b5e5834c34082a0f4,fashion_esporte,fashion sport,51,511,2,200,16,12,12,1,22361.jpg,Men,Sports Sandals,Navy Blue,Summer,Reebok Men Navy Twist Sandals,119.98,39.59,0
+7e3c3f51d5ccc2382147194f911e22a8,fashion_calcados,fashion footwear,42,649,3,700,16,8,18,1,26180.jpg,Women,Sandals,Gold,Spring,Rocia Women Gold Casual Sandals,69.95,25.88,1
+694f7daacd749d7bde487e0f9675c5b8,malas_acessorios,bags accessories,55,1002,8,850,30,15,15,1,29742.jpg,Women,Handbags,Teal,Summer,Kiara Women Teal Handbag,119.96,4.8,1
+f45d3b91af1103db9a21dc9d11cb9223,fashion_calcados,fashion footwear,57,404,4,750,22,12,33,1,59056.jpg,Women,Casual Shoes,Blue,Winter,Carlton London Women Blue & Cream Shoes,89.97,35.99,1
+b21f65209a6ce012874c5b0a33d7bc55,malas_acessorios,bags accessories,48,956,1,100,30,8,25,1,25941.jpg,Women,Scarves,Yellow,Summer,Femella Women Yellow & Brown Scarf,119.97,15.6,0
+cfe99a31516679fb9515881d25891570,fashion_calcados,fashion footwear,35,222,5,500,29,12,23,1,2886.jpg,Women,Flats,Brown,Winter,Catwalk Women Leather Brown Flats,89.97,6.3,0
+2a21592fa9b5f82a36ec4e151bb31d10,fashion_calcados,fashion footwear,40,303,12,500,29,7,16,1,2872.jpg,Women,Heels,Brown,Winter,Catwalk Women Leather Flats,79.95,29.58,0
+363daaf7bd11e7d76a33134068e06985,malas_acessorios,bags accessories,51,1494,10,1050,30,15,15,1,51658.jpg,Women,Watches,Copper,Winter,Fossil Women Copper Chronograph Watch CH2589,19.95,9.18,0
+7fb3f37949847dce3f2a1b81d4445f55,fashion_calcados,fashion footwear,49,375,6,300,29,7,16,1,22702.jpg,Women,Casual Shoes,Beige,Fall,Nike Women Beige Dunk High Casual Shoes,59.96,18.59,1
+47b61a5f9093614abf8416431fa2817c,malas_acessorios,bags accessories,38,267,1,500,18,45,32,1,25946.jpg,Women,Scarves,Brown,Summer,Femella Women Brown Scarf,9.98,0.8,1
+7dcdcf1d40dd5422c3f16685ac1f0dbc,malas_acessorios,bags accessories,31,42,1,100,16,3,16,1,35325.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,59.99,28.8,0
+db56f6d2b04c89eae4daba188842fd7b,malas_acessorios,bags accessories,56,450,3,12450,40,25,57,1,48585.jpg,Women,Bracelet,Silver,Summer,Lucera Women Silver Bracelet,89.97,37.79,0
+2e8eb076261eb842a7e1bdf64e1facda,fashion_calcados,fashion footwear,53,408,3,1400,22,12,33,1,2618.jpg,Women,Flats,Silver,Spring,Carlton London Women Silver Wedge Sandal,99.97,9,0
+fb1e2262cc73f7ab23c5dc5cf8d78693,malas_acessorios,bags accessories,52,452,2,16200,43,29,67,1,52223.jpg,Women,Necklace and Chains,White,Fall,Lencia White Swarovski Pearl Necklace,79.98,33.59,1
+bf8193d8e1127957f3b82527c6d44c01,malas_acessorios,bags accessories,36,543,1,500,25,7,20,1,44984.jpg,Women,Watches,White,Winter,Maxima Women White Dial Watch,79.97,35.99,0
+43bafb0c5d10b886c2a7166089560202,malas_acessorios,bags accessories,57,393,8,950,35,10,20,1,35313.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,49.98,22.49,0
+d53d0094e20a39b4c5304940cf8995ea,malas_acessorios,bags accessories,58,890,9,1750,32,52,19,1,43190.jpg,Women,Watches,White,Winter,Fastrack Women White Dial Watch,19.96,8.58,0
+659dc4a2860c19265edc2fe7e451329c,malas_acessorios,bags accessories,45,232,1,550,45,10,32,1,42614.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Earrings & Pendant Set,49.97,21.99,0
+ced65a7af145a0974ffb661e7b20b5ae,malas_acessorios,bags accessories,51,352,1,450,20,5,20,1,26351.jpg,Women,Watches,White,Winter,DKNY Women White Dial Watch NY8472,59.99,26.4,1
+03e7d29d9988a30815f1f20b6549881f,fashion_calcados,fashion footwear,54,404,4,700,22,12,33,1,11518.jpg,Women,Heels,Grey,Winter,Catwalk Women Gun Metal Grey Heels,99.97,31.99,0
+7eb9c68704af5effea1cee6f3a6b4b4b,fashion_calcados,fashion footwear,54,404,4,900,22,12,33,1,54127.jpg,Women,Heels,Black,Winter,Rocia Women Black Heels,89.97,31.49,0
+dfb68ce52d4975e692909a1bf9d59f1b,fashion_calcados,fashion footwear,44,284,12,300,29,7,16,1,55657.jpg,Women,Heels,Gold,Winter,Catwalk Women Golden Wedges,129.97,49.39,0
+dd12801e4d1919e84bf6f90167f22fb5,fashion_roupa_feminina,fashion women's clothing,58,360,4,450,16,5,20,1,26994.jpg,Women,Jeans,Black,Summer,Jealous 21 Women Black Jeans,79.99,8,0
+d3a10b49783a6ba7ea46526fc79aea91,malas_acessorios,bags accessories,57,914,2,12000,35,20,50,1,53101.jpg,Women,Earrings,Silver,Winter,Fabindia Silver Drop Earrings,69.99,32.2,0
+d75e2e75d4471019ee14ae21d5f61704,fashion_calcados,fashion footwear,43,647,3,900,20,9,21,1,23878.jpg,Women,Casual Shoes,Green,Summer,Fila Women Sleeker Green Check Casual Shoes,99.96,29.99,0
+1efe84b450fd2e07ceac3cd1ace28348,malas_acessorios,bags accessories,57,488,3,19100,40,78,41,1,54174.jpg,Women,Necklace and Chains,Gold,Summer,Femella Golden Necklace,69.96,32.18,0
+75d7e231ed2dba03def04a4ade1e17c1,malas_acessorios,bags accessories,42,791,1,500,50,5,40,1,42625.jpg,Women,Earrings,Silver,Winter,Estelle Women Earrings,99.95,41.98,0
+da17d63dff29a96ddfd5a9bfa5fb0aa9,malas_acessorios,bags accessories,51,1419,3,100,17,3,13,1,58141.jpg,Women,Earrings,Silver,Fall,Rreverie Silver Earrings,19.96,9.58,1
+3e49351c2f191cb67c4224b392531a74,malas_acessorios,bags accessories,43,883,9,1750,32,52,19,1,42841.jpg,Women,Handbags,Beige,Summer,French Connection Women Beige Handbag,29.99,1.8,0
+3eda91c4ed75e3ce93482a5eed64868d,fashion_roupa_masculina,fashion menswear,50,472,2,900,50,10,40,1,37812.jpg,Men,Shirts,Navy Blue,Summer,John Players Men Navy Blue Shirt,9.98,0.7,1
+1f06d9b36ed20e13e3d95072487e4cb3,fashion_roupa_masculina,fashion menswear,52,541,4,500,40,10,40,1,56825.jpg,Men,Shirts,Brown,Summer,John Players Men Brown Shirt,119.96,12,0
+b81399b264f3f525f6645f98369b1868,fashion_calcados,fashion footwear,54,1722,4,2800,41,12,34,1,47530.jpg,Women,Flats,Copper,Winter,Portia Women Copper-Toned & Brown Sandals,19.98,1,1
+3c3c57f8884d5702b83ab9ff91dbbd50,malas_acessorios,bags accessories,58,2036,4,22600,77,33,56,1,35913.jpg,Women,Handbags,Black,Summer,Peperone Women Black & White Handbag,79.96,6.4,0
+2fe1e09df32992e9e5041a2671233e20,fashion_roupa_masculina,fashion menswear,36,968,3,600,16,2,11,1,11349.jpg,Men,Jeans,Blue,Summer,Lee Men Blue Chicago Fit Jeans,59.99,4.2,1
+e7d26dd6742baca292020c158e6720c3,malas_acessorios,bags accessories,40,124,1,450,24,47,34,1,48318.jpg,Women,Bracelet,Silver,Winter,Pitaraa Silver Omelette Thin Bracelet,39.97,17.19,1
+70faa98e995f58b0160bb8320b653e29,fashion_roupa_masculina,fashion menswear,55,336,1,200,25,2,17,1,9452.jpg,Men,Shirts,Red,Fall,John Miller Men Stripes White Red Shirts,29.98,3,1
+82183967d9fde935fc0b0189bb68ccec,malas_acessorios,bags accessories,41,132,1,500,22,46,34,1,11142.jpg,Women,Scarves,Blue,Fall,Scullers Women Solid Blue Scarves,69.98,7,0
+8a8ca51f9f9e167a56b3469d64492632,malas_acessorios,bags accessories,53,246,1,675,29,23,18,NA,31923.jpg,Women,Handbags,Blue,Summer,Fabindia Women Blue Silk Sling Bag,99.99,11,1
+8bfcc2900410d032d52f24991311a009,malas_acessorios,bags accessories,45,261,1,450,18,48,32,NA,48929.jpg,Women,Ring,Silver,Fall,Lucera Women Silver Ring,29.97,14.09,0
+a07713fa6def350398642fcb700db2f9,fashion_calcados,fashion footwear,52,408,5,1400,22,12,33,1,14431.jpg,Women,Heels,Black,Summer,Enroute Women Casual Black Flats,59.97,23.39,1
+58b566d4cc7237145b29b21e9699e15c,malas_acessorios,bags accessories,52,246,1,800,33,10,45,NA,58177.jpg,Women,Handbags,Brown,Summer,Rocky S Women Brown Handbag,49.96,2.5,1
+c4c508eec81b6f7eb8153419004c6450,malas_acessorios,bags accessories,59,472,4,20850,50,50,50,NA,52823.jpg,Women,Earrings,Green,Summer,Adrika Green Earrings,59.95,27.58,0
+8aeef27d525d6bfa3b48e599a6c15ffd,fashion_esporte,fashion sport,51,567,1,500,26,10,22,1,44572.jpg,Men,Sports Sandals,Black,Summer,Coolers Men Black Sports Sandals,69.96,27.28,1
+a916a0b56448758409cb1147fa3d1f8b,malas_acessorios,bags accessories,49,905,6,575,44,8,33,NA,42622.jpg,Women,Earrings,Gold,Winter,Estelle Women Earrings,69.95,30.08,1
+277d6549d32c2aa10255800083e9816b,malas_acessorios,bags accessories,52,1290,5,450,20,40,30,NA,35314.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,59.97,28.19,0
+13a05309c09bd28a2d0418005ae7a55b,malas_acessorios,bags accessories,64,557,1,1200,19,44,35,NA,49033.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,69.96,29.38,0
+062e425d963f3eac04709162c3ce6782,fashion_calcados,fashion footwear,58,404,4,450,25,15,35,1,14409.jpg,Women,Heels,White,Summer,Enroute Women Casual White Heels,69.97,22.39,0
+c7296f9449f86afc5688984ed1c170a2,fashion_roupa_masculina,fashion menswear,25,648,6,800,45,10,35,1,4943.jpg,Men,Shirts,White,Summer,Gini and Jony Boy's Kaleb White Brown Kidswear,79.97,10.4,0
+414ae37d87aac46914dddd6e972b0b58,fashion_roupa_masculina,fashion menswear,39,322,1,650,20,20,20,1,39381.jpg,Men,Jeans,Black,Summer,Peter England Men Party Black Jeans,59.96,6,0
+3881e42dae9f77fcbaf9f23020b7ef44,malas_acessorios,bags accessories,45,218,1,800,46,10,34,NA,21510.jpg,Women,Handbags,White,Winter,Kiara Women Graphiti White Handbag,69.99,3.5,1
+77dcfc5b971dc8c9efed8eebca4af2d5,malas_acessorios,bags accessories,57,417,1,700,100,11,11,NA,48342.jpg,Women,Necklace and Chains,Silver,Fall,Pitaraa Silver Fish Scale Necklace,49.98,22.99,1
+50b0e47f8219992ae98677122c483fde,malas_acessorios,bags accessories,53,700,1,9500,76,32,49,NA,48942.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,39.95,19.18,0
+ce4819dda4ac7cf24daf8f88eb5b70af,malas_acessorios,bags accessories,44,215,1,700,46,10,33,NA,45293.jpg,Women,Watches,Red,Winter,CASIO SHEEN Women Red Dial Watch SX017,39.95,17.18,0
+483bc1cbabb3fd0c16d82d2f162852c4,fashion_calcados,fashion footwear,60,402,2,2000,32,12,37,1,53130.jpg,Women,Flats,Brown,Winter,Catwalk Women Brown Sandals,49.99,5.5,0
+4d78056b9f9774c590e778a5fbdb7150,malas_acessorios,bags accessories,52,425,2,600,80,11,11,NA,42613.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Earring & Pendant Set,69.97,31.49,0
+4f0e806431f76599423676fd485109ae,malas_acessorios,bags accessories,49,343,1,700,17,44,37,NA,47671.jpg,Women,Scarves,White,Summer,Femella Women White & Black Scarf,9.99,0.4,1
+0347f9daa0a33f82b4c9c0821450cc8a,malas_acessorios,bags accessories,58,1038,5,9075,29,39,45,NA,43703.jpg,Women,Jewellery Set,Red,Summer,Royal Diadem Red Earring & Pendant Set,79.97,35.99,0
+8d7ab3701456fdbfe2526636ce15327a,malas_acessorios,bags accessories,52,408,1,325,18,18,16,NA,53106.jpg,Women,Earrings,Silver,Winter,Fabindia Silver Earrings,39.98,17.19,0
+7aa53bb43cb5b12d70be2a69d1e3c364,malas_acessorios,bags accessories,58,487,3,16200,26,57,39,NA,21948.jpg,Women,Handbags,Brown,Winter,Murcia Women Casual Brown Handbag,9.97,0.9,1
+e726b00d6143d630f1635740d8a265c2,fashion_roupa_feminina,fashion women's clothing,36,886,2,200,16,2,20,1,49653.jpg,Women,Tops,Green,Summer,Mineral Women Green Top,19.97,1.4,1
+5ea135a7b8448e88c3fa7696860b3c3d,malas_acessorios,bags accessories,44,132,2,400,20,10,16,NA,37481.jpg,Women,Watches,White,Winter,Esprit Women White Dial Watch,79.99,37.6,0
+16e148a208d0f11df31eaf2f731ee460,malas_acessorios,bags accessories,38,216,1,700,49,10,34,NA,39375.jpg,Women,Watches,Silver,Winter,Helix Women Silver Dial Watch,29.96,13.78,0
+fe6614ba400caca2d8d310902d5ecdd5,fashion_calcados,fashion footwear,57,404,4,1500,22,12,33,1,34455.jpg,Women,Heels,Black,Spring,Rocia Women Black Shoes,109.97,37.39,0
+1dfa1d1603b10b073093775015d0fc74,fashion_roupa_masculina,fashion menswear,36,622,2,900,45,10,35,1,11340.jpg,Men,Jeans,Blue,Summer,Lee Men Blue Chicago Fit Jeans,9.96,0.6,0
+ce9642db03eabe825b92638bd5d4aebd,malas_acessorios,bags accessories,58,367,5,1200,45,15,35,NA,43704.jpg,Women,Jewellery Set,Green,Summer,Royal Diadem Green Earring & Pendant Set,69.99,31.5,0
+76f71ec385ad031b06d5ad8be0440260,fashion_calcados,fashion footwear,46,647,2,1200,20,9,21,1,13042.jpg,Women,Flats,Brown,Winter,Inc 5 Women Brown Heels,19.98,2.6,0
+a69e3d74b5056570954717a7efc806de,malas_acessorios,bags accessories,58,529,10,3350,29,28,24,NA,48570.jpg,Women,Bracelet,Black,Summer,Lucera Women Black & Silver Bracelet,49.95,22.48,1
+016809bbae76f284266dcffcbb12480b,malas_acessorios,bags accessories,38,789,3,600,50,5,40,NA,48319.jpg,Women,Bracelet,Gold,Winter,Pitaraa Golden Omelette Thin Bracelet,79.99,37.6,0
+6553ffe8703fdc36bad125ddf9f6d691,malas_acessorios,bags accessories,45,905,6,425,40,7,34,NA,47366.jpg,Women,Handbags,Blue,Summer,Baggit Women Blue Bag,99.95,12.99,1
+20a67c4242225878d0a014685ab3edaa,malas_acessorios,bags accessories,43,280,5,250,20,11,20,NA,9009.jpg,Women,Handbags,Brown,Winter,Murcia Women Snake Print Bag Brown Handbags,99.95,10,1
+50a2c8c64d432c1d4921f2e63e6c5e70,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,1,20267.jpg,Women,Heels,Black,Winter,Catwalk Women Casual Black Heels,119.95,47.98,0
+51b10a13b460cebc64e1325e7f228ae8,malas_acessorios,bags accessories,18,758,7,14800,45,60,22,NA,47392.jpg,Women,Handbags,Beige,Fall,Baggit Women Beige Bag,69.95,8.39,1
+69e3a7b303638194dc5edd5e6abff8ff,fashion_calcados,fashion footwear,40,303,12,400,29,7,16,1,3505.jpg,Women,Casual Shoes,White,Fall,ADIDAS Women Adi Light White Fresh Shoe,89.95,32.38,0
+45db4516caf5bf0516fb08b73fd14d1e,malas_acessorios,bags accessories,47,571,2,550,16,6,11,NA,46044.jpg,Women,Earrings,Gold,Winter,Estelle Gold Earrings,89.97,38.69,1
+bb5f7cb699fd0467c5d6289669df9510,malas_acessorios,bags accessories,48,991,10,3050,52,32,19,NA,3391.jpg,Women,Handbags,White,Winter,Murcia Women White With Stitch Bag,39.95,3.6,1
+5f3e86b7e537b8d2d993596c969b69a6,malas_acessorios,bags accessories,54,791,1,18700,53,77,32,NA,54173.jpg,Women,Necklace and Chains,Blue,Fall,Femella Blue Necklace,69.98,31.49,0
+25c3eb54945e82e7c1dc8191a1ebb5f1,malas_acessorios,bags accessories,56,1538,4,19900,77,33,50,NA,43705.jpg,Women,Jewellery Set,White,Summer,Royal Diadem White Jewellery Set,29.97,14.39,0
+d73068913476e74d4f35a6f2d5399ae9,malas_acessorios,bags accessories,40,1070,1,650,90,5,11,NA,46042.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Jewellery Set,19.96,9.38,0
+f01058850701fcb9d8f652660012b9ec,fashion_calcados,fashion footwear,41,342,4,450,29,10,22,1,22501.jpg,Women,Casual Shoes,Beige,Winter,Catwalk Women Beige Casual Shoes,59.98,23.99,0
+bb099f12bf2833153c9def3538cb52dc,malas_acessorios,bags accessories,49,411,3,10700,40,100,16,NA,42612.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Earring & Pendant Set,19.98,8.59,1
+de607575b49bac3e75ff4e11bd3d3c11,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,1,38652.jpg,Women,Casual Shoes,Black,Summer,Nike Women Double Team Lite Black Shoes,119.96,41.99,0
+f6c3624f0bad00eefa032e306776a77b,fashion_calcados,fashion footwear,51,1436,1,300,16,16,16,1,55650.jpg,Women,Heels,Multi,Winter,Catwalk Women Multi-coloured Heels,99.95,36.98,0
+07f2e8872fd2d0e17780989da6c06362,malas_acessorios,bags accessories,43,727,1,800,19,49,34,NA,44983.jpg,Women,Watches,Silver,Winter,Maxima Women Silver Dial Watch,39.96,19.18,0
+b046862b2553fe4962392cdc93a2ae93,malas_acessorios,bags accessories,47,1479,1,850,25,50,30,NA,20604.jpg,Women,Handbags,Brown,Winter,Baggit Women Umbrella Dum Brown Handbag,89.99,11.7,1
+8762b647d716b99b09ee045657f9d383,malas_acessorios,bags accessories,31,851,3,600,16,30,20,NA,59780.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,79.99,36.8,0
+3554200c1d7f3b4b39a0ae68aa1c0a54,malas_acessorios,bags accessories,56,267,1,4633,37,34,30,NA,59468.jpg,Women,Ring,Silver,Summer,Lucera Silver Ring,89.97,38.69,0
+4630761de87581e8b659dc77bb7eb4ee,malas_acessorios,bags accessories,52,220,1,650,46,10,34,NA,48728.jpg,Women,Earrings,Silver,Summer,Lucera Women Silver Earrings,89.97,40.49,0
+0160785b697a5ea87d52949bd097ce05,malas_acessorios,bags accessories,48,389,3,14000,26,66,46,NA,52848.jpg,Women,Earrings,Green,Summer,Adrika Women Green Earrings,39.96,17.98,0
+efaf96097dbe32a78254739ee35900cb,fashion_roupa_masculina,fashion menswear,36,695,2,300,16,2,11,1,30453.jpg,Men,Jeans,White,Summer,Deni Yo Men White Jeans,99.96,12.99,1
+dabb495df6a109d46f8faeca31a1c75d,malas_acessorios,bags accessories,28,491,2,150,16,17,11,NA,42615.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Earrings & Pendant Set,19.98,8.79,0
+23905e2fed49239bf63e416ba24bd556,malas_acessorios,bags accessories,60,2032,6,1100,25,25,25,NA,48345.jpg,Women,Necklace and Chains,Gold,Fall,Pitaraa Golden Nugget Long Necklace,39.99,18.8,0
+700a315aa104dcf3ea345a850f746ec1,fashion_esporte,fashion sport,32,889,1,1500,70,15,65,1,3168.jpg,Men,Sports Shoes,White,Fall,Nike Men's Incinerate MSL White Blue Shoe,79.99,30.4,0
+597db778f5d2ebf10a3fa0f43a2ae143,malas_acessorios,bags accessories,59,2197,6,1000,35,10,20,NA,46190.jpg,Women,Jewellery Set,Brown,Winter,Adrika Women Brown Teracotta Jewellery Set,69.95,32.88,1
+6c82ebe860b459b481f4226e2a06534e,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,1,22539.jpg,Women,Heels,Brown,Winter,Inc.5  Women Grey Flats,129.98,49.39,0
+15d46964df616d5206807cd84b95b73d,fashion_calcados,fashion footwear,43,647,3,900,19,9,20,1,12905.jpg,Women,Casual Shoes,Purple,Fall,Puma Women Casual Purple Casual Shoes,129.96,44.19,0
+f130542b9dab05d4540ba00f35f0880f,fashion_roupa_masculina,fashion menswear,36,694,2,300,16,2,11,1,9660.jpg,Men,Shirts,Pink,Fall,Indigo Nation Men Reversible Bling Pink Shirts,29.99,3,0
+21efeb0e47f3328f86002eda80b63321,fashion_roupa_masculina,fashion menswear,28,696,2,100,16,2,11,1,15984.jpg,Men,Shirts,Yellow,Fall,Turtle Check Men Yellow Shirt,79.99,3.2,0
+497f3cf6e1c584b489ca78da2bc08d5a,malas_acessorios,bags accessories,52,1862,4,750,25,55,40,NA,56198.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,99.97,47.99,0
+660fc6f47144a19180d7309e37155f1e,fashion_roupa_masculina,fashion menswear,54,265,2,800,40,6,30,1,39388.jpg,Men,Jeans,Black,Summer,Peter England Men Black Jeans,69.96,9.09,0
+0b9d32c4f39a77eca7f39c5b69ebc690,fashion_calcados,fashion footwear,40,303,12,300,29,7,16,1,31941.jpg,Women,Casual Shoes,Grey,Summer,Nike Women Air Rift Grey Shoes,89.95,31.48,0
+09f62215f404dbd29cb4378c9952e1b9,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,1,54129.jpg,Women,Heels,Beige,Winter,Rocia Women Beige Flats,109.99,36.3,0
+937a0cd52717a017956a9309a7bc49a0,malas_acessorios,bags accessories,55,947,2,6360,31,45,54,NA,59457.jpg,Women,Ring,Silver,Summer,Lucera Silver Ring,69.95,32.18,0
+0bdcdfb68f8b45a19fe06a348853cf4c,malas_acessorios,bags accessories,40,508,2,400,65,11,11,NA,35118.jpg,Women,Necklace and Chains,Silver,Fall,Allen Solly Woman Silver Necklace,69.96,33.58,1
+37d19b9dd7ebf721bff9d6cdab3a7452,fashion_roupa_masculina,fashion menswear,28,572,2,800,45,10,35,1,59297.jpg,Men,Shirts,White,Fall,U.S. Polo Assn. Men White & Navy Blue Shirt,99.95,4,0
+8cf306b87f5f0832d70505004465e39f,fashion_roupa_masculina,fashion menswear,39,51,1,400,30,40,11,1,7158.jpg,Men,Shirts,Green,Fall,Scullers Men  Green Check Shirt,9.98,0.8,0
+40376ad8bd1bd1066449dbb09440dc43,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,1,34452.jpg,Women,Flats,Copper,Winter,Rocia Women Copper Sandals,99.97,13,0
+b2b3fbcc207fc52d44daff257e7c491c,fashion_roupa_masculina,fashion menswear,46,1765,2,600,35,35,15,1,16392.jpg,Men,Shirts,Red,Fall,Levis Men Check Red Shirts,19.96,1.8,0
+c0a6b2284e36418ab8e75c1fedca24d4,fashion_calcados,fashion footwear,55,344,3,3000,36,37,16,1,57303.jpg,Women,Heels,Brown,Winter,Rocia Women Brown Wedges,139.98,48.99,0
+f91a53ddc9bba002d1f3d77e9a39c07e,malas_acessorios,bags accessories,37,386,3,700,40,15,40,NA,59774.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Earring & Pendant Set,39.99,16.8,0
+6167837141fac33cf09874ab78dcca86,fashion_calcados,fashion footwear,57,404,3,750,22,12,33,1,11516.jpg,Women,Heels,Black,Winter,Catwalk Women Lifestyle Black Heels,89.97,34.19,1
+69530f4ebf4b017348e5f19323ab8a00,fashion_roupa_feminina,fashion women's clothing,35,335,1,700,20,20,20,1,58513.jpg,Women,Tops,Off White,Summer,Tonga Women Maroon Top,109.95,9.9,0
+794bf14b91dcd92fd3cd35a45d6a83e4,fashion_roupa_masculina,fashion menswear,47,316,2,400,16,5,16,1,6617.jpg,Men,Shirts,Black,Summer,Spykar Men Black and white Check Shirt,59.95,7.79,0
+4eccb57987c7f971d1fd64f81362f191,malas_acessorios,bags accessories,39,38,6,200,16,7,11,NA,25144.jpg,Women,Handbags,Orange,Winter,Lino Perros Women Leatherite Orange Handbag,79.99,7.2,0
+ac5e164e2eda939ffa46593f90077f9a,fashion_calcados,fashion footwear,35,222,5,400,29,12,23,1,6672.jpg,Women,Casual Shoes,White,Summer,Nike Women Dunk Skinny White Red Shoe,89.98,34.19,0
+becdef3ca4da8b5dca0f783acc5ee300,malas_acessorios,bags accessories,50,279,1,1400,45,20,35,NA,35127.jpg,Women,Necklace and Chains,Metallic,Summer,Allen Solly Woman Metal Necklace,29.95,13.78,0
+621b15d249d471192c1bd7ade2dd8b86,fashion_roupa_feminina,fashion women's clothing,26,225,2,300,16,2,11,1,31782.jpg,Women,Tops,Blue,Summer,Lee Women Paula Blue Top,89.96,3.6,1
+4e7814c736cac58bdcd4423ed76ca68a,fashion_calcados,fashion footwear,58,404,4,1500,20,15,35,1,35783.jpg,Women,Heels,Turquoise Blue,Summer,Enroute Women Turquoise Blue Flats,59.95,20.38,1
+f3c2c2578c46d659b7940e784319413e,fashion_roupa_masculina,fashion menswear,42,162,4,800,20,7,20,1,22395.jpg,Men,Shirts,Blue,Fall,Mark Taylor Men Striped Blue Shirt,39.95,1.6,0
+0142fd5bd2e0923cf2dbc73d471dda34,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,1,12902.jpg,Women,Casual Shoes,Black,Fall,Puma Women Cabana Racer SL Black Casual Shoes,99.99,38,1
+1d0576deaebcd2285a1fea5d43021ca8,fashion_calcados,fashion footwear,57,404,4,700,22,12,33,1,46615.jpg,Women,Heels,Red,Winter,Catwalk Women Red Flats,119.98,40.79,0
+834df04774f3aa4b60bfd6f839f448bc,fashion_calcados,fashion footwear,49,375,6,300,29,7,16,1,10292.jpg,Women,Heels,Brown,Summer,Clarks Women Brown Leather Heels,99.96,33.99,0
+f34aa01a3fe4306c96dccc1256bfa358,fashion_calcados,fashion footwear,54,404,4,1500,22,12,33,1,50784.jpg,Women,Heels,Cream,Fall,Clarks Women Cream Coloured Onslow Beat Leather Wedges,139.99,43.4,0
+76f4d017416dbf316f05abe3a1aa04df,fashion_calcados,fashion footwear,53,408,5,1400,22,12,33,NA,2888.jpg,Women,Heels,Brown,Winter,Catwalk Women Wedding Heeled Bronze Heels,59.95,18.58,1
+635b0964f7d41f9ce3275551c36a44d8,malas_acessorios,bags accessories,49,244,1,700,34,24,21,NA,31924.jpg,Women,Handbags,Black,Summer,Fabindia Women Black Silk Handbag,9.96,1.2,0
+3a4c258c71b027dfe480fdb608e2d9a1,fashion_calcados,fashion footwear,53,408,5,1400,22,12,33,NA,2627.jpg,Women,Flats,Silver,Fall,Carlton London Women Wedge Silver Sandal,29.99,2.1,0
+e2a1d45a73dc7f5a7f9236b043431b89,fashion_calcados,fashion footwear,56,459,2,9000,16,5,33,NA,17683.jpg,Women,Casual Shoes,Black,Winter,Catwalk Women Ballerina Black Casual Shoe,119.97,37.19,0
+e355d989e7c7101b4e80a8e9052985fd,malas_acessorios,bags accessories,47,221,1,650,46,10,34,NA,35120.jpg,Women,Necklace and Chains,Bronze,Fall,Allen Solly Woman Bronze Necklace,99.95,46.98,0
+1e291c0c369924c39765c90de669e4b4,malas_acessorios,bags accessories,56,948,2,9560,31,45,54,NA,31714.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,59.99,27.6,0
+0efb0a47500c44e05a5930cae12307d4,malas_acessorios,bags accessories,53,956,1,18400,53,77,33,NA,48989.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,99.96,44.98,0
+86facec0be6ecaeb315ad287b9841c4f,malas_acessorios,bags accessories,25,912,3,550,16,30,20,NA,59781.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,59.97,26.39,0
+25d22295e68fa5bc9fff2b947a3eaeb5,malas_acessorios,bags accessories,54,348,1,1600,41,15,29,NA,56199.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Earring & Pendant Set,99.98,41.99,0
+11671ad86b98844d1d40f79a7f3ba1be,fashion_calcados,fashion footwear,49,375,6,300,29,7,16,NA,15526.jpg,Women,Heels,Brown,Fall,Rockport Women Jeanie Oneband Brown Flats,129.99,50.7,0
+29c02f0c592b76b958c77d85f4d5b954,malas_acessorios,bags accessories,32,864,3,425,28,20,29,NA,59773.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Jewellery Set,49.95,20.98,1
+0d7312f1f397b109b3765a2917e45b13,malas_acessorios,bags accessories,36,852,3,550,16,30,20,NA,59264.jpg,Women,Watches,White,Winter,Titan Women White Watch,59.98,26.39,0
+12b86b2eab3b8c2bbf01adc381aa96e2,fashion_calcados,fashion footwear,44,284,12,400,29,7,16,NA,29583.jpg,Women,Flats,Silver,Summer,Puma Women Grace Silver Sandals,79.98,4.8,1
+8b395ea13c2e262687ff3e463c8867d4,malas_acessorios,bags accessories,57,327,4,300,30,20,12,NA,48717.jpg,Women,Earrings,Silver,Summer,Lucera Women Silver Earrings,29.96,12.58,1
+0fb24ffeb90c073288dd0de0d015cd51,malas_acessorios,bags accessories,49,277,1,600,22,44,39,NA,46198.jpg,Women,Jewellery Set,Maroon,Winter,Adrika Marron Teracotta Jewellery Set,49.97,21.99,1
+716854aa9d670cabfec04c7eeddd85b8,fashion_roupa_masculina,fashion menswear,46,1765,2,600,35,35,15,1,12500.jpg,Men,Shirts,Black,Fall,United Colors of Benetton Men Short Black Shirts,29.99,3.6,0
+85c4d55069956c2035afcd4658368f36,fashion_calcados,fashion footwear,57,404,4,800,22,12,33,NA,45409.jpg,Women,Flats,Black,Winter,Rocia Women Black & Brown Sandals,49.97,5.5,0
+eadb1b7e01cc1cffae6481602d1ce7dc,malas_acessorios,bags accessories,41,1345,2,283,21,16,23,NA,59772.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Earring & Pendant Set,49.97,22.99,0
+6e945cffb2e4e63d0ee8c5e7cfb717c7,malas_acessorios,bags accessories,44,179,1,1800,30,40,30,NA,59459.jpg,Women,Ring,Silver,Summer,Lucera Silver Ring,29.97,12.89,0
+348ea09800ea8b415f488cef882bb755,fashion_roupa_masculina,fashion menswear,31,712,2,750,20,20,20,1,11347.jpg,Men,Jeans,Blue,Summer,Lee Men Elvira Rinse Blue Chicago Fit Jeans,39.99,2.8,0
+9472a43e0457615f2742ac021d769197,fashion_roupa_masculina,fashion menswear,40,1509,2,1900,35,6,45,1,16506.jpg,Men,Jeans,Blue,Fall,Locomotive Men Washed Blue Jeans,99.95,4,1
+322159ea16aa68e7bff8da4025d2fef8,malas_acessorios,bags accessories,46,210,1,3250,29,35,21,NA,31713.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,19.95,8.38,1
+ca753b1e379d59868172ac9d8d62d14f,malas_acessorios,bags accessories,53,220,1,1000,46,10,34,NA,49056.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,39.97,17.99,1
+30710ef7a45eef1ce593ebd6bb498bbc,malas_acessorios,bags accessories,57,2118,2,1150,30,50,40,NA,35097.jpg,Women,Scarves,Pink,Winter,Allen Solly Women Pink  Scarf,59.98,6.6,1
+a3b46e392953235f9337a0a56f933ffa,malas_acessorios,bags accessories,38,242,1,700,45,10,31,NA,35090.jpg,Women,Scarves,Olive,Summer,Allen Solly Woman Check Olive Scarf,99.98,7,0
+19fdf478915162331ece9adfd669b88e,fashion_calcados,fashion footwear,54,404,4,850,22,12,33,NA,13045.jpg,Women,Flats,Maroon,Winter,Inc 5 Women Casual Maroon Sandals,99.99,8,1
+9093d520c7871c0d57998f4b5386870b,malas_acessorios,bags accessories,54,595,2,284,16,14,15,NA,54842.jpg,Women,Jewellery Set,Blue,Fall,Ivory Tag Women Rock Array Blue and Red Jewellery Set,79.96,36.78,0
+48c6a56d5ca5f69c0150da0c98a745b8,malas_acessorios,bags accessories,57,44,2,150,16,5,16,NA,59466.jpg,Women,Ring,Silver,Summer,Lucera Silver Ring,69.96,32.88,0
+cd3ec6ebbc74e6070297d45ca9dd62e9,fashion_calcados,fashion footwear,54,404,4,800,22,12,33,NA,54116.jpg,Women,Heels,Maroon,Winter,Rocia Women Maroon Sandals,59.98,17.99,0
+581397bf7a4dba024cd9123f3018f905,malas_acessorios,bags accessories,56,1899,3,14650,58,23,38,NA,42846.jpg,Women,Handbags,Multi,Summer,French Connection Women Multi Stripe Hand Bag,99.97,12,0
+60346eb1cf64d762ced0b37885fa844a,fashion_calcados,fashion footwear,37,295,4,800,36,18,27,NA,27080.jpg,Women,Heels,Silver,Winter,Catwalk Women Silver Flats,109.95,41.78,0
+83fb75d581e85667440635bdd314c645,malas_acessorios,bags accessories,54,424,1,1100,20,10,45,NA,48980.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,29.99,14.4,0
+8f4e5f5e6323576768b835363a3fb0f1,fashion_roupa_masculina,fashion menswear,29,50,1,300,30,40,11,1,16530.jpg,Men,Shirts,Red,Fall,Locomotive Men Check Red Shirt,79.96,4.8,0
+2661ef1d31888c2ecf2c878d1c85545f,malas_acessorios,bags accessories,45,224,1,800,46,10,32,NA,45294.jpg,Women,Watches,Black,Winter,CASIO SHEEN Women Black Dial Watch SX041,79.97,33.59,0
+87ac7e3e844a79b97f7b98cecfbc69db,fashion_roupa_feminina,fashion women's clothing,33,172,4,500,20,5,20,1,4988.jpg,Women,Dresses,White,Summer,Gini and Jony Girl's Vanya White Polka Dot Kidswear,79.95,9.59,0
+1f4183ec3278c69b1237f900c701b762,malas_acessorios,bags accessories,46,748,4,2800,36,34,27,NA,35116.jpg,Women,Necklace and Chains,Black,Summer,Allen Solly Woman Black Necklace,39.96,19.18,0
+7180e36c30b2c9aaef70caabf4e8edea,malas_acessorios,bags accessories,46,1336,2,10250,45,19,36,NA,54172.jpg,Women,Necklace and Chains,Gold,Fall,Femella Golden Necklace,59.97,28.19,0
+5163057a5b13644ad1e4af396cb43df1,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,14438.jpg,Women,Heels,Yellow,Summer,Enroute Women Casual Yellow Heels,129.96,40.29,0
+657ddf22d1f54eb6f9e094190749a85e,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,53137.jpg,Women,Flats,Brown,Winter,Catwalk Women Brown Sandals,39.95,4.39,0
+6fa96cbd1d917acb1ef4bc8040116105,fashion_calcados,fashion footwear,55,344,3,1850,36,37,16,NA,54145.jpg,Women,Heels,Brown,Spring,Rocia Women Brown Flats,99.96,29.99,1
+4f96fc0061443ee77dd78178bc456ff7,fashion_roupa_masculina,fashion menswear,28,474,2,250,16,16,16,1,13246.jpg,Men,Jeans,Blue,Fall,Palm Tree Kids Boy Washed Blue Jeans,9.97,1.3,0
+6f2c108731ef77738da45855e737c1bd,fashion_calcados,fashion footwear,54,404,4,1400,22,12,33,NA,53732.jpg,Women,Casual Shoes,Green,Winter,Puma Women Green Supersuede Eco Casual Shoes,69.98,25.19,0
+25d5b8d69bc7e6ce9f9a59e1a00ee50b,malas_acessorios,bags accessories,59,1030,4,1600,32,12,25,NA,59775.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,39.95,17.58,1
+bdce983de5f3fe3c23363b676b19dcbf,malas_acessorios,bags accessories,37,347,1,875,13,32,46,NA,48344.jpg,Women,Necklace and Chains,Silver,Fall,Pitaraa Silver Fish Scale Necklace,19.96,9.38,1
+da32065ce3a1cac419193576b899ee75,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,NA,47537.jpg,Women,Flats,Brown,Winter,Portia Women Brown Flats,19.96,2.4,0
+0e90009c14c8245b4ec2646c22ca8b7d,fashion_calcados,fashion footwear,51,1958,5,1500,33,13,20,NA,54120.jpg,Women,Flats,Beige,Winter,Rocia Women Beige Flats,39.95,4.39,0
+1cc8eab3e8021aa2f19391441692c477,fashion_calcados,fashion footwear,54,404,4,1500,35,12,20,NA,2629.jpg,Women,Flats,Black,Fall,Carlton London Women Four Strapped Black Sandal,49.98,3,1
+db6d024e26d62875c98fa846ab698f5e,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,14453.jpg,Women,Heels,Black,Summer,Enroute Women Casual Black Flats,139.96,44.79,0
+18f968379c4898b794fcf83f317ba60e,malas_acessorios,bags accessories,56,2126,6,4300,30,55,40,NA,59553.jpg,Women,Bracelet,Silver,Summer,Lucera  Silver Bracelet,59.97,28.19,0
+75f6a4f019ec1322758d53b2fee2cc12,malas_acessorios,bags accessories,41,155,3,16050,60,40,40,NA,59461.jpg,Women,Ring,Silver,Summer,Lucera Silver Ring,99.97,47.99,0
+8326a865712b71ff436aefafc04a4817,malas_acessorios,bags accessories,60,424,1,1150,40,10,35,NA,30001.jpg,Women,Watches,White,Winter,Aspen Women White Dial Watch,29.96,13.48,0
+7b9b39b222adc797a65032aea85e3395,fashion_roupa_masculina,fashion menswear,54,275,2,900,40,6,35,1,7167.jpg,Men,Shirts,Purple,Fall,Scullers Men Scul Purple White Shirt,19.99,1,0
+4b44730a7923e3c19eb67f1c8bfa1c39,malas_acessorios,bags accessories,39,357,3,550,32,42,12,NA,58622.jpg,Women,Bracelet,Beige,Winter,ToniQ Women Beige Bracelet,99.96,43.98,1
+02fb2d61da1247bf732360ea76b16240,malas_acessorios,bags accessories,49,824,1,850,19,51,34,NA,46185.jpg,Women,Jewellery Set,Multi,Winter,Adrika  Multi Coloured Teracotta Jewellery Set,29.98,12.59,0
+b8c5642287f25d5e0e166199264eff95,fashion_roupa_masculina,fashion menswear,36,968,3,600,16,2,11,1,44581.jpg,Men,Jeans,Navy Blue,Summer,Lee Rinse Navy Blue Slim Fit Jeans,69.98,3.5,0
+5f0e89246f7a6648983bdac37e5a16e2,fashion_roupa_masculina,fashion menswear,43,973,2,400,35,35,15,1,12190.jpg,Men,Shirts,Blue,Fall,Basics Men Blue Slim Fit Checked Shirt,89.99,8.1,0
+3ee59eac7a0e259bb24ce5270d0bc901,fashion_calcados,fashion footwear,57,655,3,1050,18,8,20,NA,14454.jpg,Women,Heels,Taupe,Summer,Enroute Women Casual Taupe Casual Heels,139.96,55.98,0
+630e1e89b84dc36567deec47c7e373b1,fashion_roupa_feminina,fashion women's clothing,36,754,2,600,16,2,20,1,10406.jpg,Women,Dresses,Grey,Fall,United Colors of Benetton Women Solid Grey Dresses,109.96,9.9,0
+17636e3c15333148e25253db631a2d7d,fashion_esporte,fashion sport,54,487,1,450,20,20,20,1,6628.jpg,Men,Sports Shoes,White,Summer,ADIDAS Men's Lowell White Silver Shoe,69.96,27.98,0
+dd231637766e756fd1cf2fd80501fce1,fashion_roupa_masculina,fashion menswear,57,222,1,750,30,10,28,1,14055.jpg,Men,Shirts,Green,Fall,Flying Machine Men Check Green Shirts,19.99,2,0
+027e1564c58eb02f39089b2b1f28d5e0,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,35378.jpg,Women,Heels,Green,Summer,Senorita Women Green Flats,79.99,24.8,0
+8b100f92b312e18e03f0ee8f0c0011bd,fashion_roupa_feminina,fashion women's clothing,36,886,2,200,16,2,20,1,7193.jpg,Women,Jeans,Black,Fall,Jealous 21 Women Black Jegging,39.99,3.6,0
+cb1b037c120d9dad45d63a2723e46f18,malas_acessorios,bags accessories,46,1134,2,7700,18,64,40,NA,33992.jpg,Women,Scarves,Off White,Summer,Femella Women Printed Off White Scarf,39.99,3.2,0
+159afb2051a2a69bcd9a594ce5ed6452,malas_acessorios,bags accessories,37,358,1,950,12,32,46,NA,46182.jpg,Women,Jewellery Set,Blue,Winter,Adrika Purple Teracotta  Jewellery Set,29.95,13.48,0
+5d43da09d9bdd70109b2cccd41632a06,malas_acessorios,bags accessories,58,680,4,1500,41,15,29,NA,59769.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Earring & Pendant Set,99.98,41.99,1
+069b1293b22c9d000af947225ce14791,malas_acessorios,bags accessories,59,271,3,20500,60,40,40,NA,43768.jpg,Women,Earrings,Black,Summer,Royal Diadem Black Earrings,19.98,9.39,0
+2e1b5445dd65296e510e3e8c65ea7071,malas_acessorios,bags accessories,44,224,1,750,46,10,33,NA,43197.jpg,Women,Watches,Grey,Winter,Fastrack Women Grey Dial Watch,79.99,35.2,0
+5073cb7b965df5f1fea32e8728782a8f,malas_acessorios,bags accessories,23,836,7,1400,55,40,25,NA,48928.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,69.99,29.4,0
+f0453e2cbc3480959c34ab663b44c777,malas_acessorios,bags accessories,50,297,2,250,20,3,20,NA,49035.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,59.95,26.38,1
+88f65c67a768f35feb3de87afe055ea6,malas_acessorios,bags accessories,43,1037,6,11700,54,25,37,NA,47670.jpg,Women,Scarves,Cream,Summer,Femella Women Cream and Black Printed Scarf,79.98,10.4,0
+f10163ef5dd01ee5f3622b750b64091c,fashion_roupa_masculina,fashion menswear,55,1241,2,300,16,2,11,1,8779.jpg,Men,Shirts,Navy Blue,Fall,Indigo Nation Men Club Satin Hot Stepper Navy Blue Shirt,19.95,2.19,0
+5637032095493f280eae8d9da00da6f1,malas_acessorios,bags accessories,54,507,1,750,81,6,11,NA,48921.jpg,Women,Ring,Silver,Fall,Lucera Women Silver Ring,99.97,46.99,0
+25184d12546e74ab8843112abca3f1d6,malas_acessorios,bags accessories,59,1616,5,950,27,10,28,NA,47652.jpg,Women,Scarves,Pink,Summer,Femella Women Pink & White Scarf,49.99,3.5,0
+c36f1190b3cb7fac6c7bc68483317029,fashion_roupa_masculina,fashion menswear,55,1241,2,400,16,2,20,1,43960.jpg,Men,Shirts,Grey,Summer,Indigo Nation Men Grey Striped Shirt,19.99,1.2,0
+7f8bacbe759179781b50331ea609f7f8,malas_acessorios,bags accessories,57,1182,2,1400,43,27,43,NA,46184.jpg,Women,Jewellery Set,Green,Winter,Adrika Green Teracotta  Jewellery Set,49.96,23.98,0
+0192191cc1bc83262d6667c54c2e048f,fashion_calcados,fashion footwear,54,404,4,850,22,12,33,NA,4742.jpg,Women,Casual Shoes,Grey,Summer,Numero Uno Women NY Grey Blue Shoe,79.99,24,0
+d40788ec5b01ba52711983b9c54b36e6,fashion_roupa_masculina,fashion menswear,45,523,2,300,35,30,20,1,21586.jpg,Men,Jeans,Grey,Summer,Locomotive Men Washed Grey Jeans,39.99,3.6,0
+726e355b119d1f8186283de59fc5b702,malas_acessorios,bags accessories,53,680,4,1500,41,15,29,NA,48769.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,89.96,41.38,1
+39a0578866cba21bcead91f5221af2a8,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,NA,27074.jpg,Women,Flats,Blue,Winter,Catwalk Women Blue Casual Flats,89.98,7.2,0
+b205c1d9481d550412cbac291356e234,malas_acessorios,bags accessories,38,383,1,2000,35,46,20,NA,54175.jpg,Women,Necklace and Chains,Gold,Fall,Femella Golden Necklace,29.95,12.58,1
+d21bf4652c855ccafcf94116891cc7ce,fashion_roupa_masculina,fashion menswear,33,1154,3,600,20,20,20,1,56847.jpg,Men,Jeans,Blue,Summer,John Players Men Blue Jeans,29.95,1.2,0
+b3e90ae91e88976069bda920612c5a02,fashion_calcados,fashion footwear,57,404,4,750,22,15,33,NA,14462.jpg,Women,Heels,Gold,Summer,Enroute Women Casual Gold Peep Toes,79.97,31.19,0
+84b6ea77a72c80fa8f23287a4e6c1dc8,fashion_calcados,fashion footwear,54,404,4,900,22,12,33,NA,17684.jpg,Women,Casual Shoes,Grey,Winter,Catwalk Women Ballerina Grey Casual Shoe,119.98,37.19,0
+795ed92f8a2263bd778b90a008ee32fc,fashion_esporte,fashion sport,52,1177,6,850,22,32,11,1,3503.jpg,Men,Sports Sandals,Navy Blue,Spring,ADIDAS Men Navy Blue Sandals,129.96,46.79,0
+f49f59559a40c88ed4beeacac8b25e71,fashion_roupa_masculina,fashion menswear,28,364,2,250,16,16,16,1,22359.jpg,Men,Shirts,Blue,Summer,John Players Men Check Blue Shirt,39.96,5.19,0
+d9524ab5892f79d3de3870697ad7b25d,fashion_calcados,fashion footwear,54,404,4,800,35,12,20,NA,8978.jpg,Women,Casual Shoes,Purple,Fall,Puma Women Saba Ballet DC3 Purple Casual Shoes,109.96,38.49,0
+a836767158b2c4fdca1d178b8e4e6165,malas_acessorios,bags accessories,43,236,2,150,20,20,20,NA,48343.jpg,Women,Necklace and Chains,Gold,Fall,Pitaraa Golden Fish Scale Necklace,49.96,22.98,0
+c6976aecdc5f7b5964f18b71ebf12978,malas_acessorios,bags accessories,44,216,1,700,45,10,32,NA,48981.jpg,Women,Ring,Silver,Fall,Lucera Women Silver Ring,69.97,33.59,0
+9c6db8c47fae241469bec6c43c674bce,malas_acessorios,bags accessories,57,885,3,6965,36,38,36,NA,48975.jpg,Women,Ring,Silver,Fall,Lucera Women Silver Ring,89.97,37.79,0
+7e5fd19172dd777a98503a8fbb66fa04,malas_acessorios,bags accessories,46,1470,2,900,25,50,30,NA,46163.jpg,Women,Necklace and Chains,Brown,Winter,Adrika Brown Necklace,69.98,32.19,0
+a38e6346616a8f362c328b9537b1ca4d,fashion_esporte,fashion sport,38,220,2,250,18,12,12,1,5609.jpg,Men,Sports Sandals,Navy Blue,Spring,ADIDAS Men Receptor Navy Sports Sandals,119.98,38.39,0
+1c99a6128a79a5fb5a34c1c6b3be9067,fashion_calcados,fashion footwear,54,404,4,900,22,12,33,NA,39583.jpg,Women,Heels,Red,Summer,Catwalk Women Red Flats,59.97,20.39,0
+30ccf4724f5227265f837e9ba0246278,malas_acessorios,bags accessories,52,573,1,1450,49,10,33,NA,46164.jpg,Women,Necklace and Chains,Brown,Winter,Adrika Brown & Beige Necklace,59.96,27.58,1
+d46169ff14ef99286a176b5391a7a1c8,malas_acessorios,bags accessories,33,1193,1,22600,37,80,60,NA,48756.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,59.98,28.79,0
+801cbc289593826559bed08171034485,fashion_roupa_masculina,fashion menswear,48,541,2,350,40,10,40,1,4944.jpg,Men,Shirts,White,Summer,Gini and Jony Boy's Kaleb White Brown Infant Kidswear,119.97,10.8,0
+646ce272adff96b1ace27e81c9bdf29d,malas_acessorios,bags accessories,51,275,1,1500,18,53,30,NA,46152.jpg,Women,Necklace and Chains,Green,Winter,Adrika Women Green & Brown Necklace,49.99,24,1
+01f76c07f91a533acd46cc6ab989be23,fashion_calcados,fashion footwear,57,404,4,750,22,12,33,NA,46825.jpg,Women,Casual Shoes,Off White,Winter,Catwalk Women Off-White and Blue Pumps,99.95,36.98,0
+f8c6a76085bd3b4341cccb774b554c82,fashion_roupa_masculina,fashion menswear,40,624,3,850,45,10,35,1,48387.jpg,Men,Jeans,Blue,Summer,French Connection Men Blue Jeans,29.96,2.4,0
+da8faea5f69f03fce4dfc01ceee4f1dd,fashion_esporte,fashion sport,47,562,6,300,29,7,16,1,33822.jpg,Men,Sports Shoes,White,Summer,Puma Men Axis White & Grey Sports Shoes,119.95,39.58,0
+e7d9d7787c96a30e0f418993c1555633,malas_acessorios,bags accessories,48,225,1,1000,45,10,31,NA,59902.jpg,Women,Scarves,White,Fall,Femella Women White Printed Scarf,19.97,2,1
+d9fcf1be6830bf510f03d9e6c979e4df,malas_acessorios,bags accessories,41,370,4,18050,60,40,40,NA,53934.jpg,Women,Handbags,Brown,Summer,Kiara Women Brown Handbag,109.95,8.8,0
+b853b073ca63585ef3afd79a4ab97ef1,fashion_calcados,fashion footwear,49,375,6,400,29,7,16,NA,22500.jpg,Women,Casual Shoes,Blue,Winter,Catwalk Women Blue Casual Shoes,79.98,31.99,0
+8988d11aace15e3c9e25763c6d87dcf5,fashion_roupa_masculina,fashion menswear,23,183,1,200,19,27,27,1,44586.jpg,Men,Jeans,Blue,Summer,Lee Men Tino Blue Jeans,59.98,4.8,1
+cf43916f0ba449bea875425d18c8815b,fashion_calcados,fashion footwear,58,2375,5,1350,33,13,20,NA,41667.jpg,Women,Heels,Black,Spring,Catwalk Women Black Heels,59.99,24,0
+bfbce14d1a7118b0c233a35617ec2830,fashion_roupa_feminina,fashion women's clothing,30,590,6,400,29,7,16,1,6873.jpg,Women,Dresses,Black,Summer,Forever New Women's Top Black Dress,9.99,0.6,1
+e80a0c4b0bb3f2f171f0fe8360513d90,fashion_roupa_masculina,fashion menswear,34,185,1,225,19,27,27,1,33489.jpg,Men,Shirts,Green,Summer,Doodle Kids Boy Check Green Shirt,69.95,8.39,0
+f75eb66dc82bccecabd706bd441cfd3a,malas_acessorios,bags accessories,49,767,1,800,20,51,34,NA,52177.jpg,Women,Ring,Silver,Fall,Lencia Sterling Silver Ring,69.96,29.38,0
+94ecc3aaf1c1a63135ba686ac00264c0,fashion_roupa_masculina,fashion menswear,43,1189,2,850,28,22,33,1,30802.jpg,Men,Shirts,Blue,Summer,Fabindia Men Blue Shirt,49.99,2,0
+671ac7a60d975bd4ca2d7f7c77070210,fashion_calcados,fashion footwear,57,404,4,1500,22,12,33,NA,2616.jpg,Women,Flats,Gold,Fall,Carlton London Women Gold Wedge Sandal,119.97,12,0
+521e6ee10253492c99b97a77007036a0,malas_acessorios,bags accessories,50,528,4,1200,40,31,31,NA,59905.jpg,Women,Scarves,Pink,Fall,Femella Women Pink Printed Scarf,39.95,1.6,0
+805e46e794f114d8800f55296251f907,fashion_calcados,fashion footwear,53,408,5,1400,22,12,33,NA,45802.jpg,Women,Heels,Black,Fall,Senorita Women Black Flats,59.99,19.8,0
+c5e93f42eccbe45b7eda897d5a26fb78,malas_acessorios,bags accessories,50,449,1,1450,55,32,35,NA,25188.jpg,Women,Handbags,Brown,Winter,Lino Perros Women Leatherite Brown Handbag,119.95,4.8,1
+688f41cea8b772c6901d723e73b74579,malas_acessorios,bags accessories,53,252,1,600,20,49,39,NA,48758.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,59.98,25.19,0
+e5215437680ffc2cfdb0ce9088870176,fashion_calcados,fashion footwear,59,1757,2,500,30,5,12,NA,30695.jpg,Women,Flats,Bronze,Winter,Catwalk Women Bronze toned Sandals,89.95,9,0
+61e8bddb5e00dffe8bfbf972cf3fdf18,malas_acessorios,bags accessories,53,473,4,1050,30,15,15,NA,46155.jpg,Women,Necklace and Chains,Cream,Fall,Adrika Women Cream & Brown Necklace,89.99,41.4,1
+1b97621fc0e6ac58cfb272d5ccf8c15b,fashion_roupa_masculina,fashion menswear,55,1241,2,1000,16,2,11,NA,11712.jpg,Men,Shirts,Blue,Summer,Lee Men Solid Blue Shirts,89.99,7.2,0
+42af75da4dff5f8f6be029c5bdd5f08f,malas_acessorios,bags accessories,52,391,3,17450,29,57,40,NA,59552.jpg,Women,Bracelet,Silver,Summer,Lucera Silver Bracelet,89.98,41.39,1
+ad6cb6097e3d27661b789a84ec7cc9aa,fashion_calcados,fashion footwear,54,451,5,1700,36,37,16,NA,46613.jpg,Women,Heels,Grey,Summer,Catwalk Women Multi Coloured Sandals,59.95,23.38,1
+9eca2336e05ce3b44072af92fe661a3a,malas_acessorios,bags accessories,56,1911,2,700,28,9,14,NA,47663.jpg,Women,Scarves,Brown,Summer,Femella Women Brown Leopard Print Scarf,109.96,14.29,0
+855b12ca88fe958e9076503d8c716c4e,malas_acessorios,bags accessories,44,224,1,800,41,10,30,NA,21528.jpg,Women,Handbags,Copper,Winter,Kiara Women Sequins Copper Handbag,99.99,9,0
+e9e8ec421793c31261cde20786e9ff16,malas_acessorios,bags accessories,27,512,6,5000,50,45,25,NA,52176.jpg,Women,Ring,Black,Fall,Lencia Sterling Silver Ring,59.99,28.2,0
+ce50ce6bd3918bddcce75a3014b560f6,malas_acessorios,bags accessories,29,1011,5,1383,40,23,37,NA,58112.jpg,Women,Earrings,Brown,Fall,Rreverie Dark Brown & Turquoise Earrings,19.98,9.39,1
+18692fdc7adb29c885d8cb84eb68a97e,fashion_roupa_masculina,fashion menswear,27,575,2,850,45,10,35,NA,56849.jpg,Men,Jeans,Navy Blue,Fall,John Players Men Navy Regular Fit Jeans,69.98,5.6,0
+63a033b030ff3da0b4b4eb3043c503d1,fashion_calcados,fashion footwear,54,480,2,600,30,10,15,NA,43367.jpg,Women,Flats,Black,Summer,Reebok Women Black Casual Shoes,119.96,10.8,1
+e24c96c234ee0f2b0947bd394ec402ca,malas_acessorios,bags accessories,55,956,1,1900,48,10,33,NA,48710.jpg,Women,Earrings,Silver,Summer,Lucera Women Silver Earrings,79.95,35.18,0
+f1e60c5b5f15ae0c91d490abe6c03bf2,malas_acessorios,bags accessories,59,244,1,600,34,6,24,NA,58624.jpg,Women,Bracelet,Black,Winter,ToniQ Women Black Bracelet,99.99,46,0
+6401d2f82d6e6c52998ce626fe4eda24,fashion_roupa_masculina,fashion menswear,30,51,1,300,30,40,11,NA,6046.jpg,Men,Shirts,Green,Summer,UCB Men Logo Chest Green Shirt,39.99,2.8,0
+ffd259a48b9b073c942884d0f3659566,fashion_roupa_masculina,fashion menswear,30,273,1,400,40,5,20,NA,44923.jpg,Men,Jeans,Blue,Summer,Jack & Jones Men Blue Jeans,19.95,2.59,0
+dc0e42a3f768716a158834ab59694650,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,45400.jpg,Women,Flats,Maroon,Winter,Rocia Women Maroon Sandals,59.99,3,0
+dc556db3ce4879d098cc5479d44beb13,malas_acessorios,bags accessories,58,859,2,3850,30,10,49,NA,43795.jpg,Women,Earrings,Gold,Summer,Royal Diadem Magenta Earrings,69.97,31.49,1
+1bc861b90a53405f92c18482e45e897c,malas_acessorios,bags accessories,45,225,1,600,47,10,34,NA,52846.jpg,Women,Earrings,White,Summer,Adrika White Earrings,49.98,22.49,0
+681e1525258578dd8a22a3c249509bf5,malas_acessorios,bags accessories,32,43,5,200,16,5,45,NA,33988.jpg,Women,Scarves,Blue,Summer,Femella Women Printed Blue Scarf,19.96,2.59,0
+987639aa04642e107c6781b619539a9e,fashion_roupa_masculina,fashion menswear,31,322,1,1000,20,20,20,NA,24204.jpg,Men,Jeans,Blue,Summer,Deni Yo Men Skinny Fit Blue Jeans,89.99,9.9,1
+e8c68ed99b73a85e2c22388f4a702bc0,fashion_roupa_masculina,fashion menswear,33,54,1,500,30,40,11,NA,44924.jpg,Men,Jeans,Blue,Summer,Jack & Jones Men Blue Jeans,69.97,6.3,0
+781145cd898909ed4389dc1a21192426,fashion_roupa_feminina,fashion women's clothing,26,225,2,400,16,2,11,1,46271.jpg,Women,Dresses,Blue,Summer,109F Blue A-Line Dress,109.99,6.6,1
+f576b52ac16acd49c1c3dc82ca1e792e,malas_acessorios,bags accessories,42,299,1,500,18,48,34,NA,47664.jpg,Women,Scarves,Grey,Summer,Femella Women Grey & Blue Butterfly Scarf,49.98,2.5,1
+c68252426f70e1434cf6e465d7cae869,malas_acessorios,bags accessories,53,1289,2,450,16,40,25,NA,52178.jpg,Women,Ring,Silver,Fall,Lencia Women Sterling Silver Ring,89.99,42.3,0
+771fdcb0db87731f794a0e723e93b732,fashion_roupa_feminina,fashion women's clothing,63,437,4,300,36,6,27,1,21174.jpg,Women,Tops,Beige,Fall,s.Oliver Women Stripes Beige Top,49.98,4.5,0
+ef20cc9755032059db24bef18745df2f,fashion_calcados,fashion footwear,48,647,2,1600,20,9,21,NA,21715.jpg,Women,Casual Shoes,Blue,Winter,Catwalk Women Blue Casual Shoes,99.97,29.99,0
+1272db6c9d16e3c3b9878c3462a0f369,malas_acessorios,bags accessories,29,1095,3,450,28,19,29,NA,58138.jpg,Women,Ring,Silver,Fall,Rreverie Silver Ring,59.99,26.4,0
+cb584c49f570fef84e71a4297652bd48,malas_acessorios,bags accessories,29,599,5,375,28,19,29,NA,47665.jpg,Women,Scarves,Blue,Summer,Femella Women Blue & White Scarf,29.96,3.6,1
+c7b3cf9de7be95b3e09e7a63315685eb,malas_acessorios,bags accessories,49,489,2,16250,18,53,39,NA,48726.jpg,Women,Earrings,Silver,Summer,Lucera Women Silver Earrings,29.98,14.09,0
+75e8e3d9663c75fe4693bdf6d6b03ede,malas_acessorios,bags accessories,48,221,1,700,46,10,34,NA,49019.jpg,Women,Ring,Silver,Fall,Lucera Women Set of Two Silver Ring,99.95,44.98,0
+7a6a8e721213b9881cfcb60aaafcc3d3,fashion_calcados,fashion footwear,35,670,2,900,40,33,26,NA,12702.jpg,Women,Casual Shoes,White,Fall,Nike Women Capri White Casual Shoes,59.95,22.18,1
+5e8b0d21d2584970a728779743579947,fashion_calcados,fashion footwear,47,649,3,800,21,9,22,NA,35782.jpg,Women,Heels,Pink,Summer,Enroute Women Pink Flats,59.97,20.39,1
+bb5270be574487250ba3c3b742caa6e0,malas_acessorios,bags accessories,60,2071,6,1150,20,20,20,NA,48767.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,49.97,23.49,0
+2b939dc9b176d7fa21594d588815d4a4,malas_acessorios,bags accessories,45,702,1,1300,33,10,49,NA,58139.jpg,Women,Ring,Silver,Fall,Rreverie Silver Ring,69.96,29.38,0
+ef70e532c5fc29ee4c3e44006819669b,malas_acessorios,bags accessories,46,242,3,480,16,30,20,NA,59904.jpg,Women,Scarves,Pink,Fall,Femella Women Pink Scarf,29.96,2.4,0
+cb378611bbb39f1716b4f0c335201448,malas_acessorios,bags accessories,39,632,6,16850,38,58,25,NA,54868.jpg,Women,Necklace and Chains,Gold,Fall,Ivory Tag Women Blazing Stone Multicolour Necklace,49.97,20.99,0
+988b2a648a563f61225c02b494487eab,fashion_calcados,fashion footwear,55,344,3,1900,36,37,16,NA,14401.jpg,Women,Heels,Blue,Summer,Enroute Women Steelblue Heels,99.97,32.99,0
+3c33294ae18a2298ca94f669347ca935,fashion_calcados,fashion footwear,53,375,4,300,29,7,16,NA,47539.jpg,Women,Flats,White,Winter,Portia Women White Flats,79.96,10.39,0
+5dd8e8df9f408e7b2feb9bfd44c6f011,malas_acessorios,bags accessories,45,702,1,950,33,10,49,NA,42637.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,19.98,9.59,1
+909cbfcbd548d18e67449df6a47e73f2,malas_acessorios,bags accessories,40,856,3,600,16,30,20,NA,47992.jpg,Women,Watches,Black,Winter,Helix Women Black Watch,69.95,29.38,0
+5adc6c464f33f8560dd3c984291d4ba1,malas_acessorios,bags accessories,33,924,3,550,16,30,20,NA,43792.jpg,Women,Earrings,Gold,Summer,Royal Diadem Gold & Pink Earrings,79.98,35.99,1
+5525bcf86683c9d9777c2f28326d7db4,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,NA,15715.jpg,Women,Casual Shoes,Purple,Fall,Nike Women Sweet Classic High Purple Casual Shoes,129.99,52,0
+1a980a10bed1d765e2eb2ad3608a63a1,malas_acessorios,bags accessories,45,217,1,850,45,10,31,NA,59903.jpg,Women,Scarves,Peach,Fall,Femella Women Peach Printed Scarf,9.97,1.2,0
+c4cca1d23088d10099f52159878b6686,fashion_roupa_feminina,fashion women's clothing,43,1621,2,600,16,2,11,1,59897.jpg,Women,Dresses,Yellow,Fall,Femella Women Yellow Dress,59.95,2.4,0
+0d77d60c579e0b58944b380d57972d88,fashion_calcados,fashion footwear,37,480,4,1200,16,33,19,NA,5897.jpg,Women,Casual Shoes,White,Summer,Puma Women's Feuerwerk White Shoe,129.95,38.99,0
+0906585a53ae0d9e9d848e83b8f2ea88,fashion_roupa_feminina,fashion women's clothing,27,405,3,1200,25,15,25,1,40371.jpg,Women,Jeans,Navy Blue,Summer,Tokyo Talkies Women Navy Slim Fit Jeans,119.96,10.8,0
+01caf54032309b518a584331b8a673f6,malas_acessorios,bags accessories,45,223,1,800,46,10,32,NA,59432.jpg,Women,Handbags,Black,Summer,Spice Art Women Black Handbag,19.96,2,0
+170ae15fc78b44bceab3e66baefbbd99,fashion_roupa_masculina,fashion menswear,38,50,1,300,30,40,11,NA,4972.jpg,Men,Shirts,Green,Summer,Gini and Jony Boy's Kangaroo Green White Kidswear,99.99,6,0
+e475b26e5db4c91fa1cd25927908eac2,fashion_esporte,fashion sport,22,886,4,200,22,6,15,1,39899.jpg,Men,Sports Sandals,Brown,Summer,ADIDAS Men Brown Sandals,89.96,34.18,1
+571547781b09e0d5b1b0fe849e41728d,malas_acessorios,bags accessories,60,957,7,1550,30,50,20,NA,48760.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,59.96,26.98,0
+1a57fd59f51629d5eefcc5737fa74bad,malas_acessorios,bags accessories,57,380,2,338,22,25,23,NA,40529.jpg,Women,Watches,White,Winter,Titan Women White Dial Watch,29.97,13.79,0
+dc3503150b2bd7dbbb59168d88cd7550,malas_acessorios,bags accessories,45,218,1,600,47,10,31,NA,58184.jpg,Women,Handbags,Beige,Summer,Rocky S Women Beige Handbag,19.96,2,0
+77aadda8f3636c56d2e32ebf735426ba,malas_acessorios,bags accessories,60,680,2,1500,41,15,29,NA,48993.jpg,Women,Ring,Silver,Fall,Lucera Women Silver Ring,49.95,22.98,0
+494822838e3883190a3b0834d5124c02,fashion_esporte,fashion sport,54,511,2,150,16,12,12,1,34785.jpg,Men,Sports Sandals,Grey,Summer,Fila Men Benton Grey Sandals,119.99,44.4,0
+f41f2bc23bbc617dd7fe3bbe1168754a,malas_acessorios,bags accessories,56,302,2,950,42,22,26,NA,31722.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,79.97,34.39,0
+9bc5cc0e165e23d3f4824e7b02fb16e3,malas_acessorios,bags accessories,58,855,7,1150,35,14,29,NA,17639.jpg,Women,Scarves,Black,Fall,Puma Women Darsey Black Scarf,89.98,9,0
+a4d44eb9f68b301db3a15c9a346f395c,malas_acessorios,bags accessories,56,730,3,3700,37,42,39,NA,54857.jpg,Women,Necklace and Chains,Gold,Fall,Ivory Tag Women Delicate Pink Pearl Necklace,29.98,12.89,0
+a2c75a23c2f838881dd4275c0cec519f,fashion_calcados,fashion footwear,54,451,5,1650,36,37,16,NA,14430.jpg,Women,Casual Shoes,Black,Summer,Enroute Women Casual Black Casual Shoes,139.96,50.39,0
+93ebf843a46dd3ba8085784ff4c604fc,fashion_roupa_masculina,fashion menswear,32,713,2,800,20,7,20,NA,29773.jpg,Men,Shirts,Green,Summer,Wrangler Men Green Striped Shirt,69.99,4.9,0
+91a3dcf83ffdf9fecb0dadfc7f026998,malas_acessorios,bags accessories,41,230,1,800,45,10,32,NA,35133.jpg,Women,Bracelet,Cream,Winter,Allen Solly Woman Cream Bangle,39.98,18.79,0
+ee414848defe3c945669ef6867298a62,malas_acessorios,bags accessories,44,218,1,200,16,5,16,NA,29988.jpg,Women,Watches,White,Summer,Aspen Women Mother Of Pearl Dial Watch AP1193,99.99,46,0
+f1e258360f5eb6a99119bb6febde40fd,fashion_calcados,fashion footwear,55,344,3,1900,36,37,16,NA,45407.jpg,Women,Flats,Brown,Summer,Rocia Women Brown Sandals,69.96,7.7,0
+32cb082100ed973a2e3a6950214f8629,malas_acessorios,bags accessories,32,1356,1,19200,40,77,55,NA,35134.jpg,Women,Bracelet,Navy Blue,Summer,Allen Solly Woman Navy Blue Bangle,29.97,14.09,0
+905b0c0ebfb5ea28af1b5cfb97bbbd27,fashion_roupa_feminina,fashion women's clothing,43,1621,2,500,16,2,11,1,46285.jpg,Women,Dresses,Multi,Summer,109F Women Multi Coloured Dress,59.98,6,0
+53e4a9df6738c52c11e3856a977404c4,fashion_calcados,fashion footwear,40,303,12,250,29,7,16,NA,46087.jpg,Women,Casual Shoes,Silver,Summer,ADIDAS Women Silver Magique Shoes,59.99,20.4,0
+83d5757d175fa2b1b90e5369ce549b8e,malas_acessorios,bags accessories,20,590,5,4200,40,55,15,NA,59481.jpg,Women,Ring,Silver,Fall,Lucera Silver Chirsty Ring,29.97,12.89,1
+d34ec3c23c142291062f958688a1b41c,malas_acessorios,bags accessories,54,114,1,1050,40,10,35,NA,53088.jpg,Women,Necklace and Chains,Silver,Winter,Fabindia Silver Necklace,39.97,17.99,1
+6c25ce13992ffcb21d6f65764e5624f3,malas_acessorios,bags accessories,47,221,1,1000,46,10,34,NA,48721.jpg,Women,Earrings,Silver,Summer,Lucera Women Silver Earrings,19.98,9.59,0
+64814436ab31f1548144e0c5fbf4bf2e,fashion_calcados,fashion footwear,40,303,12,500,29,7,16,NA,4743.jpg,Women,Casual Shoes,Red,Summer,Numero Uno Women Dna Red Shoe,109.96,34.09,0
+1ea666016f92dbe83254279eda832f34,malas_acessorios,bags accessories,51,396,3,350,25,10,20,NA,46538.jpg,Women,Watches,White,Summer,Timex Women Pearly White Dial Watch,69.97,33.59,0
+4c92e541a1ebcea93b97d490990df18a,malas_acessorios,bags accessories,40,1070,1,600,90,5,11,NA,46139.jpg,Women,Necklace and Chains,Copper,Fall,Adrika Women Copper Necklace,99.97,45.99,0
+c948690e312407d6724998a03db29a6e,malas_acessorios,bags accessories,55,125,1,500,20,41,28,NA,52841.jpg,Women,Earrings,Green,Summer,Adrika Green Earrings,49.98,23.49,0
+0e46a653d7cee79c08431b38fcb67fe9,fashion_roupa_masculina,fashion menswear,28,696,2,300,16,2,11,NA,13417.jpg,Men,Shirts,Blue,Summer,United Colors of Benetton Men Solid Blue Shirts,109.97,13.2,0
+2cdc0ae80267a6e170415f236fd1d243,fashion_calcados,fashion footwear,57,403,4,1400,22,12,33,NA,2880.jpg,Women,Heels,Grey,Summer,Catwalk Women Leather Formal Grey Heels,59.95,23.98,0
+c384917e9d01a9fe89791010d3ed0883,malas_acessorios,bags accessories,56,1538,4,21200,77,33,50,NA,49020.jpg,Women,Ring,Silver,Fall,Lucera Women Set of Two Silver Ring,79.95,37.58,0
+afa545a68cd944454da238793813a4d8,malas_acessorios,bags accessories,41,272,2,16050,60,40,40,NA,49018.jpg,Women,Ring,Silver,Fall,Lucera Women Set of Two Silver Rings,19.95,9.38,0
+6e59a5107a6102148b438cb33d5a2529,malas_acessorios,bags accessories,49,826,1,800,21,50,33,NA,19296.jpg,Women,Watches,White,Summer,Guess Women White Dial Watch W80056L1,39.97,17.19,0
+e558ed9db130cd52586bb4fcb1090132,malas_acessorios,bags accessories,43,784,1,900,19,51,36,NA,3396.jpg,Women,Handbags,Blue,Winter,Murcia Women Turquoise Blue Handbag,99.99,5,0
+e78a3e8673e3084630444ea05692785d,malas_acessorios,bags accessories,46,358,1,5300,19,49,34,NA,48761.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,49.95,23.98,0
+2b6a4adfd7ce44db781519964309b7f1,malas_acessorios,bags accessories,48,218,1,700,47,10,34,NA,11140.jpg,Women,Scarves,White,Fall,Scullers Women Solid White Scarves,39.95,4,0
+9f31b36609877849f75e9586f6b6a62c,fashion_calcados,fashion footwear,57,404,4,700,22,12,33,NA,35784.jpg,Women,Flats,Black,Summer,Enroute Women Black Shoes,59.99,6.6,0
+8dacc114d37ff4b78075db0d2464022e,malas_acessorios,bags accessories,39,278,1,700,19,48,35,NA,19298.jpg,Women,Watches,Black,Spring,Guess Women Puffy G Black Watch,59.97,28.79,0
+0eb4fddd203cfbfae403820aca2656e3,malas_acessorios,bags accessories,38,209,1,750,49,10,33,NA,58123.jpg,Women,Earrings,Silver,Fall,Rreverie Silver & White Earrings,99.99,43,0
+e116f9f26f694ce10fec2f4e93fce4f6,malas_acessorios,bags accessories,54,445,3,14450,42,28,67,NA,48759.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,29.96,12.58,1
+aae5bd5080ab78211526b58244f1be68,fashion_calcados,fashion footwear,41,192,6,200,29,7,16,NA,13481.jpg,Women,Flats,Black,Fall,Rocia Women Black Flats,19.97,1.6,0
+b5a8535271a06eda7aad510c09ddbf38,malas_acessorios,bags accessories,47,219,1,900,46,10,34,NA,46060.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Plated Bracelet,99.98,47.99,0
+06976617d8c5e71de4f3c2d93e788fd5,malas_acessorios,bags accessories,57,444,1,1200,32,10,45,NA,58581.jpg,Women,Ring,Black,Winter,ToniQ Women Black Ring,19.97,9.19,0
+f50524ec99356b2afcfd21995cd69d9f,fashion_calcados,fashion footwear,54,404,4,1500,22,12,33,NA,56870.jpg,Women,Casual Shoes,Brown,Winter,HM Women Brown Shoes,59.96,23.98,1
+995a6110a2705a9401669fb4cf939241,malas_acessorios,bags accessories,45,416,4,12700,18,105,40,NA,42639.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,59.99,28.2,1
+7bcc0cf24eb0ae336943a57e67f6ab82,fashion_calcados,fashion footwear,54,404,4,850,22,12,33,NA,17682.jpg,Women,Casual Shoes,Blue,Winter,Catwalk Women Closed Blue Casual Shoe,109.96,35.19,0
+beefe69ad05b3ad47376e388d3b5ea22,malas_acessorios,bags accessories,54,444,1,1200,40,10,32,NA,19747.jpg,Women,Scarves,White,Fall,ADIDAS Originals Women White Scarf,29.95,1.5,1
+fcddf470369a3a13fc7b6146ac3a816e,malas_acessorios,bags accessories,39,975,1,20300,50,80,30,NA,25634.jpg,Women,Watches,Black,Summer,Fastrack Women Black Dial Watch N6035SL02,29.96,13.18,0
+5a8f056272cbc4ea04c72f989fcb85f8,fashion_calcados,fashion footwear,57,2245,8,1150,33,13,20,NA,8977.jpg,Women,Casual Shoes,Black,Fall,Puma Women Saba Ballet DC3 Black Casual Shoes,69.99,21.7,1
+cc696680ea0cefcd5d7d5d928afb8de8,fashion_esporte,fashion sport,48,1108,2,200,27,14,13,1,42089.jpg,Men,Sports Shoes,White,Summer,ADIDAS Men White Corona Sports Shoes,59.96,20.39,1
+329851bd191cfd30470ffd5aa5457c23,malas_acessorios,bags accessories,45,218,1,500,47,10,31,NA,43759.jpg,Women,Earrings,Gold,Summer,Royal Diadem Black Earrings,99.96,42.98,0
+d60ad4f168fafa0a30d6d5f03b6b7572,fashion_calcados,fashion footwear,54,451,5,3000,36,37,16,NA,49608.jpg,Women,Casual Shoes,Red,Winter,Catwalk Women Red Shoes,109.97,36.29,0
+a87229f9d53610c8fa59579c82e1da8f,malas_acessorios,bags accessories,49,278,3,850,20,5,20,NA,48970.jpg,Women,Ring,Silver,Fall,Lucera Women Gold Ring,79.96,33.58,0
+dac10a81c7091cad557ed66495179ca6,malas_acessorios,bags accessories,45,1544,5,750,20,50,40,NA,11141.jpg,Women,Scarves,Black,Fall,Scullers Women Solid Black Scarves,9.95,1.19,0
+85f0972baa5c063019825fbf04f0d6a9,malas_acessorios,bags accessories,48,114,1,800,30,15,27,NA,19264.jpg,Women,Watches,Black,Fall,Guess Women Mini Prism Black Watch,39.99,17.2,0
+9b1c33398191d2026558e5d3940a0d8b,fashion_calcados,fashion footwear,54,404,4,1500,22,12,33,NA,14408.jpg,Women,Heels,Beige,Summer,Enroute Women Casual Beige Flats,119.98,40.79,0
+3ca00c4e1220f5de09fed51ea33cec30,malas_acessorios,bags accessories,54,1735,3,1000,16,50,35,NA,19297.jpg,Women,Watches,White,Summer,Guess Women Puffy G White Dial Watch with Swarovski Elements W85098L1,59.95,26.38,0
+87ac501420e10a4e559d1094f172eb63,malas_acessorios,bags accessories,58,1146,4,500,35,25,25,NA,20603.jpg,Women,Handbags,Black,Winter,Baggit Women Selection Mayur Black Sling Bag,29.96,3.6,0
+6b7c52cac292a4faf72cffd7085837a5,fashion_calcados,fashion footwear,57,404,4,700,22,12,33,NA,15511.jpg,Women,Heels,Pink,Fall,Rockport Women Jeanie Thong Chain Pink Flats,89.98,33.29,1
+d2ba9fb97c0a861f8a62383c434e3e1d,fashion_roupa_masculina,fashion menswear,37,439,3,550,18,16,23,NA,14037.jpg,Men,Shirts,Blue,Winter,Flying Machine Men Check Blue Shirts,9.97,1,1
+45ace3827ebfe577f1a9b99f35e23e60,malas_acessorios,bags accessories,52,163,1,733,43,11,35,NA,52647.jpg,Women,Handbags,Black,Summer,Mod'acc Women Black Handbag,9.99,0.7,0
+5a885007d9eed9680c983b19126a4bee,malas_acessorios,bags accessories,59,683,3,700,43,16,27,NA,48766.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,89.99,39.6,0
+c3e34cbfe33021ebcb984bc07aef6b73,malas_acessorios,bags accessories,42,348,1,750,25,3,20,NA,48588.jpg,Women,Bracelet,Silver,Summer,Lucera Women Silver Bracelet,59.97,26.39,0
+5002827044a87d2de4309a5e7e6e7755,malas_acessorios,bags accessories,44,221,1,700,45,10,33,NA,54850.jpg,Women,Necklace and Chains,Gold,Summer,Ivory Tag Women Swirling Jazz Golden Coloured Necklace,79.98,36.79,0
+e2a7c81b9eb2c1ffcc5f4d80d1479e3f,fashion_roupa_masculina,fashion menswear,37,360,1,250,17,7,20,NA,11346.jpg,Men,Jeans,Blue,Spring,Lee Men Blue Zed Fit Jeans,59.95,6.59,0
+ef0045bdfc1b559c7695588c4bc324a3,malas_acessorios,bags accessories,52,476,1,850,50,9,36,NA,21688.jpg,Women,Watches,Silver,Summer,Fossil Women Silver-Toned Dial Watch ES1869,59.97,28.79,0
+015f06d7b83e5a6f7d1765fb5d8bdfa6,fashion_roupa_masculina,fashion menswear,42,574,2,400,16,2,11,NA,14039.jpg,Men,Shirts,Green,Winter,Flying Machine Men Check Green Shirts,59.99,2.4,0
+11a5b67d535b545294cb946e2f7d5966,fashion_calcados,fashion footwear,57,404,4,850,22,12,33,NA,18600.jpg,Women,Flats,Grey,Fall,Puma Women Roque Grey Sandals,89.97,9.9,0
+e189be46c3e52f23ebe8a520e59d2c46,fashion_roupa_masculina,fashion menswear,58,275,2,1050,40,6,35,NA,13247.jpg,Men,Jeans,Blue,Fall,Palm Tree Kids Boy Washed Blue Jeans,49.98,5,0
+5abf8ac7fdb8291904445c4bd64ac917,malas_acessorios,bags accessories,55,596,2,4200,55,25,37,NA,35095.jpg,Women,Scarves,Red,Winter,Allen Solly Women Red Scarf,69.96,5.6,1
+590386f8c7dfc7ab1adac3857a4c074c,malas_acessorios,bags accessories,25,177,4,550,31,12,22,NA,59906.jpg,Women,Scarves,Green,Fall,Femella Women Green Printed Scarf,119.96,9.6,0
+ecac086eca2f806295b1f43b4f6ca119,fashion_roupa_feminina,fashion women's clothing,40,1628,2,600,60,60,15,1,6874.jpg,Women,Dresses,Pink,Summer,Forever New Women Pink Sleeveless Dress,99.96,8,0
+d3d5a1d52abe9a7d234908d873fc377b,malas_acessorios,bags accessories,24,520,3,4900,38,55,22,NA,33442.jpg,Women,Handbags,Teal,Winter,Baggit Women Rade Doko Teal Handbag,119.96,10.8,0
+7e1cd234017755c3d884de59cbd15ca7,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,45803.jpg,Women,Heels,Silver,Fall,Senorita Women Silver Flats,139.97,50.39,0
+41797ff66598803fa9ac0480e2ab3bc2,malas_acessorios,bags accessories,24,513,5,9800,42,70,25,NA,10250.jpg,Women,Handbags,Brown,Winter,Murcia Women Hahk Brown Handbags,119.95,13.19,0
+b4ea7aecf6304f60fe63221697a8e33b,fashion_roupa_masculina,fashion menswear,33,315,2,400,16,5,16,NA,33246.jpg,Men,Shirts,Lavender,Spring,Arrow Men Lavender Unstainable Slim Fit Shirt,19.97,1.8,1
+942bede3ef6a71e73b5f0ae6ca2f64d9,fashion_calcados,fashion footwear,41,192,6,300,29,7,16,NA,42021.jpg,Women,Casual Shoes,Black,Summer,ADIDAS Women Black Vigor Shoes,59.98,20.99,0
+ab4d60f2cff5544a9e5a3d9c7a88373b,malas_acessorios,bags accessories,39,784,3,3800,50,25,40,NA,43731.jpg,Women,Bracelet,Gold,Summer,Royal Diadem Bracelet,79.96,36.78,0
+db49e555273e8f70eac0f18f20919850,fashion_calcados,fashion footwear,40,303,12,400,29,7,16,NA,59147.jpg,Women,Heels,Beige,Fall,Tiptopp Women Beige Sandals,109.96,38.49,0
+fb5bf004540ad1453e3903bdd2162293,malas_acessorios,bags accessories,48,395,2,8050,16,98,33,NA,48768.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,29.98,14.39,0
+0816234aa8a9ed73333cc61afb578bd1,malas_acessorios,bags accessories,41,940,3,550,16,30,20,NA,58140.jpg,Women,Earrings,Silver,Fall,Rreverie Silver Earrings,79.98,37.59,0
+8d56572e0e7f9f3c82d73c8ebe61623e,malas_acessorios,bags accessories,28,360,1,550,16,44,35,NA,59900.jpg,Women,Scarves,Orange,Fall,Femella Women Multi Coloured Scarf,39.96,4.4,0
+c45f017c36f9112a8bb4f170edfb1870,malas_acessorios,bags accessories,45,702,1,1400,33,10,49,NA,59907.jpg,Women,Scarves,Off White,Fall,Femella Women Off White Printed Scarf,49.97,4,0
+66bd6e465a87926adb15dec604948867,fashion_roupa_masculina,fashion menswear,55,1241,2,700,16,2,20,NA,16507.jpg,Men,Jeans,Blue,Fall,Locomotive Men Washed Blue Jeans,99.99,8,1
+7c263994ef32b8ced2fa464a5d4312a8,fashion_calcados,fashion footwear,54,404,4,800,22,12,33,NA,13539.jpg,Women,Heels,Gold,Spring,Carlton London Women Casual Gold Flats,119.99,39.6,0
+ca92f5c2276bfd491db575cd9de5a70d,fashion_calcados,fashion footwear,54,404,2,800,22,12,33,NA,13361.jpg,Women,Casual Shoes,Tan,Fall,Timberland Women Femmes Tan Casual Shoes,79.99,32,0
+d0168e734683113fd73658071715084a,fashion_roupa_masculina,fashion menswear,28,572,2,800,45,10,35,NA,10438.jpg,Men,Jeans,Blue,Fall,Flying Machine Men Midrise Blue Jeans,99.98,13,1
+df56d8f81acf5a02dbe27e7f257c2029,malas_acessorios,bags accessories,43,399,5,1450,32,52,19,NA,8313.jpg,Women,Handbags,Black,Winter,Fastrack Women Nylon Black Handbag,89.97,9,1
+dd42371d570cdd9aff81b02961d6bafc,fashion_calcados,fashion footwear,54,404,4,900,35,12,20,NA,17019.jpg,Women,Flats,Brown,Fall,Rocia Women Casual Brown Sandal,59.99,7.2,0
+a85fa7ea0b6ca7f780ad3034bf943070,malas_acessorios,bags accessories,51,445,1,1350,32,10,45,NA,25675.jpg,Women,Watches,Steel,Summer,Fastrack Women Steel-Toned Dial Watch NA6021SL02,19.96,8.98,0
+1aaf6070d787633a51243dcd6efa127b,malas_acessorios,bags accessories,46,289,1,16050,60,40,40,NA,21946.jpg,Women,Handbags,Black,Winter,Murcia Women Casual Black Handbag,29.98,2.1,0
+106686a363064e034fee1344220be7bf,malas_acessorios,bags accessories,54,929,2,4000,35,20,50,NA,17635.jpg,Women,Scarves,Purple,Fall,Puma Women Darsey Purple Scarf,49.96,3.5,1
+990776b3e410ccb3cc725fddb0d20db9,fashion_calcados,fashion footwear,55,404,4,550,20,15,35,NA,43885.jpg,Women,Casual Shoes,Black,Summer,Puma Women Black Karmin Lace Shoes,79.99,25.6,0
+245883f1fe3a5b61da001c3cdb59b641,malas_acessorios,bags accessories,36,594,2,635,28,19,16,NA,51566.jpg,Women,Watches,White,Summer,Fastrack Women White Dial Watch NB6027sm01,29.96,13.18,0
+922ec0e0e2ca6416b4671198410cbf50,malas_acessorios,bags accessories,60,472,4,20900,50,50,50,NA,52822.jpg,Women,Earrings,Red,Fall,Adrika Women Red & White Earrings,29.99,14.1,0
+fd1061ebebbb9892c59897096066dec5,fashion_calcados,fashion footwear,57,404,4,1400,22,15,33,NA,17489.jpg,Women,Flats,Off White,Fall,Rockport Women Beige Flats,59.96,3.6,0
+134e9349b6b54e115f640c6df85fd3bf,malas_acessorios,bags accessories,55,131,2,10200,42,38,41,NA,11139.jpg,Women,Scarves,Purple,Fall,Scullers Women Solid Purple Scarves,59.98,7.8,0
+033e5e4f49acb5621c782ac8a37aa90b,malas_acessorios,bags accessories,43,533,2,175,16,10,16,NA,14864.jpg,Women,Bracelet,Red,Summer,United Colors of Benetton Women Funky Red Bracelet,29.95,13.18,0
+3319ec949aa117693a4d6fd941858af9,malas_acessorios,bags accessories,36,468,1,1200,40,22,30,NA,47734.jpg,Women,Handbags,Grey,Fall,Murcia Women Grey Handbag,79.98,7.2,0
+bb1abbbcf2a84fa906cf9ba0e3b00cb3,fashion_calcados,fashion footwear,28,284,1,500,30,20,30,NA,15268.jpg,Women,Casual Shoes,Purple,Fall,ADIDAS Originals Women Rekapi Purple Casual Shoes,139.98,47.59,0
+ca6eb076f02230568bacc7f8abbb6b5a,fashion_calcados,fashion footwear,43,455,4,700,36,18,27,NA,41713.jpg,Women,Heels,Orange,Spring,Catwalk Women Orange Wedges,89.96,33.29,1
+8e87b57f5bc7661130ee7803017f3f32,fashion_roupa_masculina,fashion menswear,33,805,2,300,16,2,11,NA,16509.jpg,Men,Jeans,Blue,Fall,Locomotive Men Washed Blue Jeans,49.96,3,0
+c372010a1ffe3950b8fdfd365ea26d88,malas_acessorios,bags accessories,59,849,1,3100,62,20,40,NA,48757.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,19.95,8.38,0
+89039f76a4c1ed8e4c13f4b531f158ca,malas_acessorios,bags accessories,49,114,1,1400,30,10,32,NA,52825.jpg,Women,Earrings,Green,Summer,Adrika Black & Green Earrings,69.98,30.79,0
+652cee66eaed09b444b43463eee56cc7,fashion_calcados,fashion footwear,55,344,3,1850,36,37,16,NA,47622.jpg,Women,Heels,Brown,Fall,Portia Women Brown Flats,139.97,44.79,0
+f6fe388c9bfc145a2790437f1e4888d9,fashion_roupa_masculina,fashion menswear,53,1434,2,300,16,2,11,NA,14712.jpg,Men,Shirts,Off White,Winter,Genesis Off-White Formal Shirt,109.96,7.7,0
+d5eaad1134bfeff3b2e4a051f652801d,malas_acessorios,bags accessories,59,355,1,600,20,5,20,NA,43793.jpg,Women,Earrings,Gold,Summer,Royal Diadem White Earrings,99.97,45.99,1
+680fb1be80c45666f3735cab0e1e5c30,malas_acessorios,bags accessories,59,716,3,6825,42,42,39,NA,43334.jpg,Women,Handbags,Maroon,Spring,Murcia Women Maroon Handbag,49.99,4,0
+765c417cdc38443aaa558a0159a98591,malas_acessorios,bags accessories,26,998,7,3500,40,55,25,NA,34619.jpg,Women,Watches,White,Summer,Aspen Women Mother Of Pearl Dial Watch AP1641,49.96,23.98,0
+29279408d40e4f6e9c9ad85e4e97d676,fashion_calcados,fashion footwear,50,647,2,1300,20,9,21,NA,35785.jpg,Women,Flats,Orange,Summer,Enroute Women Coral Shoes,29.99,1.8,0
+f71973c922ccaab05514a36a8bc741b8,malas_acessorios,bags accessories,47,482,2,16100,35,65,44,NA,58059.jpg,Women,Earrings,Silver,Fall,Rreverie Silver Earrings,49.97,23.49,0
+ce04dcb7aa96ad49d4933f3d4a9f8eb7,fashion_roupa_masculina,fashion menswear,33,957,2,600,30,30,16,NA,17190.jpg,Men,Shirts,Navy Blue,Winter,U.S. Polo Assn. Men Checks Navy Blue Shirt,99.96,4,0
+7ba8971d032709efa2bf76c413975d2c,malas_acessorios,bags accessories,45,224,1,700,46,10,33,NA,53086.jpg,Women,Necklace and Chains,Pink,Winter,Fabindia Pink Necklace,19.98,8.99,0
+a7c361fef1ac09881a4d59c9b5048f0d,fashion_calcados,fashion footwear,36,427,4,500,29,12,23,NA,13366.jpg,Women,Casual Shoes,Brown,Fall,Timberland Women Femmes Brown Casual Shoes,109.99,34.1,0
+4325528d61b94383829ce61040c858ed,fashion_roupa_masculina,fashion menswear,49,339,4,275,28,23,35,NA,23152.jpg,Men,Shirts,White,Winter,Genesis White Formal Shirt,49.98,5,1
+8ae2a62356fe10b4261e16268508ddb5,malas_acessorios,bags accessories,47,397,1,4100,30,35,40,NA,48771.jpg,Women,Jewellery Set,White,Summer,Miki Pearl Women Ivory Jewellery Set,39.99,17.6,0
+e336c656869480e20d04ca9389b12167,fashion_roupa_masculina,fashion menswear,56,336,1,750,25,5,17,NA,2102.jpg,Men,Shirts,White,Winter,Lee Men Checks Parker Blue Shirt,19.98,1,0
+77a5af4a7d2e2717af0999f7dd0dd046,malas_acessorios,bags accessories,52,883,10,2000,32,52,19,NA,58061.jpg,Women,Earrings,Sea Green,Fall,Rreverie Sea Green Earrings,49.95,22.98,0
+ffad988078a64af484dfbc5f494d12ac,malas_acessorios,bags accessories,48,82,3,150,16,10,12,NA,45289.jpg,Women,Watches,Black,Summer,CASIO Enticer Women Silver Analogue Watch LTP-1165A-1CDF SH18,19.97,9.39,1
+2daba1ba2b585317701770c97f0a3c0b,malas_acessorios,bags accessories,45,184,1,100,35,10,20,NA,54384.jpg,Women,Handbags,Olive,Fall,Baggit Women Olive Green Handbag,89.96,9,0
+e86ea175305909ddc0ba25650b2cc7be,malas_acessorios,bags accessories,45,223,1,700,46,10,32,NA,58057.jpg,Women,Earrings,Black,Fall,Rreverie Pink Earrings,29.95,13.18,1
+3210c94e2542d988d724b0dd72234cdd,fashion_esporte,fashion sport,54,511,2,100,16,12,12,1,39898.jpg,Men,Sports Sandals,Black,Fall,ADIDAS Men Black Sandals,139.97,47.59,1
+c92f0e7b9d49a9543558d6532772441b,malas_acessorios,bags accessories,48,485,5,17550,73,20,47,NA,19945.jpg,Women,Handbags,Purple,Fall,Nike Women Casual Purple Handbag,9.95,1.19,0
+93da3479685193b3ccc6f071b91408d2,malas_acessorios,bags accessories,44,215,1,650,46,10,33,NA,37289.jpg,Women,Watches,Steel,Summer,Casio Enticer Women Silver Analogue Watches (A380) LTP-2069D-7A2VDF,59.97,27.59,0
+4563d900cd3080ee4854e36ea7d0f156,fashion_calcados,fashion footwear,34,240,6,300,29,7,16,NA,45406.jpg,Women,Flats,Black,Summer,Rocia Women Black Sandals,29.95,2.7,1
+99bec487c37782c9e5e20d455970f5f2,fashion_roupa_masculina,fashion menswear,30,713,2,750,20,7,20,NA,2133.jpg,Men,Shirts,Black,Spring,Basics Men Black Slim Fit Shirt,79.97,4,1
+af4c5334329f4b3de5b2738af0bf69de,fashion_calcados,fashion footwear,48,375,6,300,29,7,16,NA,2628.jpg,Women,Flats,Gold,Fall,Carlton London Women Four Strapped Gold Sandal,9.97,1,0
+cfbf1eb673c7eba9e2f58d9375e902b1,fashion_roupa_feminina,fashion women's clothing,29,509,2,700,20,12,20,1,26993.jpg,Women,Jeans,Blue,Summer,Jealous 21 Women Washed Blue Jeans,109.95,4.4,0
+56537b99d06c3516aeaaadad438c9f64,malas_acessorios,bags accessories,53,1793,4,950,16,50,35,NA,58050.jpg,Women,Earrings,Silver,Fall,Rreverie Silver & Red Earrings,99.98,42.99,0
+2a65f5c6c203f2e5079da9ac55814c61,malas_acessorios,bags accessories,20,687,6,15700,45,65,25,NA,43707.jpg,Women,Jewellery Set,Gold,Summer,Royal Diadem Golden Jewellery Set,99.99,48,0
+84cfaf518b9392ee6b67e734c68a072d,malas_acessorios,bags accessories,45,218,1,600,47,10,34,NA,46187.jpg,Women,Jewellery Set,Multi,Fall,Adrika Multi Coloured Teracotta  Jewellery Set,59.98,25.19,0
+6dc893654777026540369b32aebda760,fashion_roupa_masculina,fashion menswear,37,360,1,250,17,7,20,NA,39801.jpg,Men,Shirts,Blue,Spring,Peter England Men Blue Shirt,79.99,5.6,0
+5ffd443a2b6ec639a1e28bc11936455a,fashion_calcados,fashion footwear,40,303,12,300,29,7,16,NA,41740.jpg,Women,Heels,Black,Spring,Catwalk Women Black Wedges,109.96,39.59,0
+55a1e3d39ace9c0b217f6c30b04d43c0,malas_acessorios,bags accessories,29,895,2,550,45,15,35,NA,46130.jpg,Women,Necklace and Chains,Pink,Winter,Adrika Pink Necklace,19.95,8.38,1
+2c955308d12bcb61c241322c9d0390f9,fashion_esporte,fashion sport,56,511,2,200,16,12,12,1,23882.jpg,Men,Sports Shoes,Grey,Fall,Fila Men Destiny Grey Sports Shoes,109.98,40.69,1
+5605209fafe11a02a00c5744147e0c92,malas_acessorios,bags accessories,46,863,10,3450,30,40,11,NA,52191.jpg,Women,Earrings,Silver,Fall,Lencia Sterling Silver Earrings,39.98,18.79,0
+2b828e930e3b891d3cb86864a5ed1540,fashion_roupa_masculina,fashion menswear,49,885,2,500,40,8,30,NA,2134.jpg,Men,Shirts,Purple,Spring,Basics Men Purple Slim Fit Checked Shirt,69.95,2.8,0
+3fbd1a96fca26cfab52984da93349a4b,fashion_roupa_masculina,fashion menswear,46,1208,2,875,31,22,33,NA,12284.jpg,Men,Shirts,Maroon,Winter,Genesis Maroon Casual Shirt,9.99,0.5,0
+65330e90e0019aa477e442b9b8e156a1,fashion_roupa_masculina,fashion menswear,39,395,2,800,45,10,35,NA,20173.jpg,Men,Shirts,Purple,Winter,Wrangler Men Dark Purple Shirt,49.97,2.5,0
+acd824083bf35614399164521e080a37,fashion_calcados,fashion footwear,57,403,4,1400,22,12,33,NA,26705.jpg,Women,Flats,Black,Fall,Nike Women Black Tenkay Shoes,99.97,12,0
+67c3a22492bcb6677d6ee56b8516f537,malas_acessorios,bags accessories,59,320,1,900,22,46,39,NA,48746.jpg,Women,Bracelet,Silver,Summer,Lucera Women Silver Bracelet,39.97,17.59,1
+6cf8c57dbb76538b6edc7f914cf3c07b,fashion_roupa_masculina,fashion menswear,30,364,2,300,16,16,16,NA,30098.jpg,Men,Jeans,Black,Winter,Flying Machine Men Washed Black Jeans,89.97,9.9,0
+e671b914e8cc916b75cecb4034143e31,malas_acessorios,bags accessories,36,560,4,1350,32,52,19,NA,48587.jpg,Women,Bracelet,Silver,Summer,Lucera Women Silver Bracelet,59.96,25.18,0
+24270aa37ba68dcc6be98dfde14da3be,malas_acessorios,bags accessories,57,425,8,900,35,10,22,NA,48606.jpg,Women,Earrings,Silver,Fall,Lucera Women Silver Earrings,29.97,14.39,0
+5850cdcd591bf91b931a59143bed34ac,fashion_calcados,fashion footwear,35,222,5,500,29,12,23,NA,15490.jpg,Women,Heels,Black,Spring,Carlton London Women Black Heels,89.99,36,1
+e5eaae7d68dab0ac80b3a5bb888f33f0,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,NA,45784.jpg,Women,Heels,Black,Fall,Senorita Women Black Sandals,99.95,35.98,1
+edb0a8739ce7457ff4767a85d6aa92e2,fashion_roupa_feminina,fashion women's clothing,35,436,1,700,20,20,20,1,51499.jpg,Women,Jeans,Blue,Summer,Denizen Women Blue Jeans,59.98,4.8,0
+06f756df8d80309915285f3ee6ea1059,malas_acessorios,bags accessories,45,1333,4,700,16,40,40,NA,33429.jpg,Women,Handbags,Teal,Fall,Baggit Women Naughty Lips Teal Handbag,69.96,4.2,0
+b20858dd0cc1115e2fedb0f48867495d,fashion_calcados,fashion footwear,49,375,6,300,29,7,16,NA,43366.jpg,Women,Flats,Navy Blue,Summer,Reebok Women Navy Blue Casual Shoes,109.98,9.9,1
+8e30f17e8689a168dfee27521e218e75,malas_acessorios,bags accessories,52,186,2,225,42,11,14,NA,29978.jpg,Women,Watches,Multi,Summer,Aspen Women White Dial Watch AP1103,19.99,8.8,0
+6dff489dd40cf8c8575c6ac85b080f04,malas_acessorios,bags accessories,41,516,5,575,32,42,12,NA,39917.jpg,Women,Handbags,Yellow,Fall,Tortoise Women Yellow Sling Bag,119.98,10.8,0
+6d377b5a340a90e525d388010b3062cc,fashion_calcados,fashion footwear,55,344,3,2000,36,37,16,NA,15257.jpg,Women,Casual Shoes,Black,Fall,ADIDAS Originals Women Decade Low Sleek Black Casual Shoes,139.95,43.38,0
+e8f7d2639ff8caa8b86e5973295898b7,fashion_esporte,fashion sport,30,543,2,150,20,10,16,1,13536.jpg,Men,Sports Sandals,Black,Spring,ADIDAS Men Black Receptor Sports Sandal,59.99,23.4,1
+ad26ad285869ae33f293067b79b9f01e,fashion_calcados,fashion footwear,60,402,5,2200,32,12,37,NA,34833.jpg,Women,Flats,Green,Summer,ADIDAS Women Sweep Green Sandals,9.98,0.8,0
+9630b857efd71e4e583678219f57f0e2,malas_acessorios,bags accessories,55,812,5,1300,35,19,29,NA,58032.jpg,Women,Earrings,Gold,Fall,Rreverie Gold Plated Earrings,69.95,33.58,1
+f750e77aeeecafcb47516be7f8f278b8,fashion_esporte,fashion sport,29,404,2,400,16,10,11,1,26625.jpg,Men,Sports Sandals,Black,Winter,Puma Men Black Jiff II Ind Sports Sandals,139.98,43.39,0
+de4a736d3f2df1266774822d9a4762a8,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,NA,18548.jpg,Women,Casual Shoes,Beige,Winter,Catwalk Women  Beige Casual Shoes,129.98,44.19,0
+29d6d16a90eb88618b243dc8cf30822a,malas_acessorios,bags accessories,50,389,3,11200,30,56,39,NA,45290.jpg,Women,Watches,Black,Summer,CASIO Women Black & Steel Analogue Watch,89.95,42.28,0
+adcadcaea9138b1888d211693ee2421a,malas_acessorios,bags accessories,50,390,3,200,16,6,12,NA,48573.jpg,Women,Bracelet,Black,Summer,Lucera Women Black & Silver Bracelet,19.98,8.39,0
+13e41fa2d255674c03342fa6b4f9e3b3,malas_acessorios,bags accessories,43,215,1,600,45,10,31,NA,48589.jpg,Women,Bracelet,Silver,Summer,Lucera Women Silver Bracelet,79.97,36.79,1
+2880c8710857e36b294c7b9380b2e6cd,fashion_calcados,fashion footwear,58,404,2,1500,25,15,35,NA,29582.jpg,Women,Flats,Black,Summer,Puma Women Black Grace Flats,99.99,10,0
+2ea8ec61f4c1078cdf7b1df620135059,fashion_calcados,fashion footwear,60,2015,4,1850,34,38,13,NA,2626.jpg,Women,Flats,Red,Fall,Carlton London Women Red Wedge Sandal,69.97,7,1
+bfa393df5b4494bea7158660999a921b,fashion_roupa_feminina,fashion women's clothing,42,367,6,350,16,5,20,1,7709.jpg,Women,Jeans,Black,Fall,Jealous 21 Women's Aaren Black Jegging,59.99,6.6,1
+47125061c86148a6f08a9e8708cef1ff,malas_acessorios,bags accessories,48,665,7,1175,45,19,34,NA,54859.jpg,Women,Necklace and Chains,Red,Fall,Ivory Tag Women Coral Petal Red Necklace,49.97,23.99,0
+e303dfa61ada1f0823b4775f192606b3,malas_acessorios,bags accessories,59,370,3,24050,60,60,40,NA,29977.jpg,Women,Watches,White,Summer,Aspen Women White Dial Watch AP1102,29.95,13.48,0
+f45818be1ed5c16a17c66e33efa75271,fashion_esporte,fashion sport,55,511,2,100,16,12,12,1,4646.jpg,Men,Sports Sandals,Grey,Spring,ADIDAS Men Grey and Navy Blue Sandal,59.95,22.18,1
+655427924aa82cda2749c647becca121,fashion_calcados,fashion footwear,56,459,2,400,16,5,33,NA,13480.jpg,Women,Flats,Black,Spring,Rocia Women Black Flats,19.97,0.8,0
+d8e94b73f80bea3c8c7d5cc257fbd4b1,fashion_calcados,fashion footwear,54,451,5,1750,36,37,16,NA,9116.jpg,Women,Casual Shoes,White,Fall,Puma Women Ikonis 2 White Sports Shoes,89.97,33.29,0
+8205c48f13a36d0c377f69ae56f84e3d,fashion_calcados,fashion footwear,53,375,4,300,29,7,16,NA,13474.jpg,Women,Flats,Gold,Fall,Rocia Women Gold Toned Flats,119.95,14.39,0
+e87ed1eba20ee630499eb23fcfb5c5fa,fashion_calcados,fashion footwear,46,648,2,1000,18,8,20,NA,29237.jpg,Women,Flats,Black,Summer,Puma Women Black Mabel Flats,39.97,4.4,0
+431084bfeb9352363649e36c9c4cc3ad,malas_acessorios,bags accessories,60,2424,7,19050,30,76,50,NA,46137.jpg,Women,Necklace and Chains,Black,Winter,Adrika Women Black Necklace,29.95,12.88,0
+47fc9ac35ea613a0fc62033750123d2f,fashion_calcados,fashion footwear,52,380,5,1400,22,12,33,NA,15261.jpg,Women,Casual Shoes,White,Fall,ADIDAS Originals Women Superstar 2 White Casual Shoes,79.97,30.39,0
+46fe748c7ab970cdaaeb666a29766c62,malas_acessorios,bags accessories,37,602,1,300,24,5,11,NA,58051.jpg,Women,Earrings,Silver,Fall,Rreverie Silver & Green Earrings,59.95,28.18,0
+ed724a28107bfd2a1aebcb6dcd2055f4,malas_acessorios,bags accessories,45,646,4,1200,42,20,31,NA,43841.jpg,Women,Earrings,Gold,Fall,Royal Diadem Red Earrings,99.99,42,0
+37e25cb997fa9c3559b68928bdddff23,malas_acessorios,bags accessories,60,244,1,400,34,6,24,NA,58060.jpg,Women,Earrings,Sea Green,Fall,Rreverie Sea Green Earrings,49.96,23.98,0
+05b0567fb831a93123b9d6866b022490,malas_acessorios,bags accessories,37,1293,1,3300,34,31,34,NA,35915.jpg,Women,Handbags,Blue,Spring,Peperone Women Blue Handbag,99.99,12,1
+28356035671957110f6f397362711b99,malas_acessorios,bags accessories,40,124,1,450,24,47,34,NA,48569.jpg,Women,Bracelet,Black,Summer,Lucera Women Black & Silver Bracelet,79.97,38.39,1
+34b14512f2273a75361c2809e3c3f8ac,fashion_calcados,fashion footwear,52,408,5,1400,22,12,33,NA,15259.jpg,Women,Casual Shoes,White,Fall,ADIDAS Originals Women Top Ten low Sleek White Casual Shoes,79.99,31.2,0
+ea4d546188ec8252ef66cff2f9c9ed9f,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,5942.jpg,Women,Casual Shoes,Black,Summer,ADIDAS Women Redy Black Shoe,109.95,37.38,0
+b993dfaf418915ff7d0aa74016f030f7,fashion_calcados,fashion footwear,40,303,12,500,29,7,16,NA,34747.jpg,Women,Casual Shoes,White,Summer,Puma Women Soleil Cat White Shoes,89.97,27.89,0
+af51d485dc5255ba2e18b21b550156e6,malas_acessorios,bags accessories,57,674,1,22350,32,74,53,NA,58171.jpg,Women,Handbags,Grey,Fall,Rocky S Women Grey Handbag,89.96,8.1,0
+f6847515f58b8f340dcc75d150d6a0ab,fashion_roupa_masculina,fashion menswear,39,411,2,900,45,10,35,NA,17191.jpg,Men,Shirts,Blue,Winter,U.S. Polo Assn. Men Checks  Blue Shirt,109.99,5.5,0
+4e6554c7113b9e0447a2ffed3bc76195,fashion_calcados,fashion footwear,57,404,4,1500,22,12,33,NA,37961.jpg,Women,Heels,White,Fall,Clarks Women Un Spire White Sandals,139.95,50.38,0
+a8e35f118bd7f9b1d38fc786b555d210,fashion_roupa_masculina,fashion menswear,55,1241,2,500,16,2,20,NA,12758.jpg,Men,Jeans,Blue,Fall,Spykar Men Washed Blue Jeans,69.96,7.7,1
+3e4176d545618ed02f382a3057de32b4,malas_acessorios,bags accessories,35,468,1,1200,40,22,30,NA,46154.jpg,Women,Necklace and Chains,Green,Winter,Adrika Women Orange & Green Necklace,19.99,9.2,0
+5b3242867b3c1f86ebe790699c88b901,malas_acessorios,bags accessories,55,197,2,450,16,2,11,NA,46153.jpg,Women,Necklace and Chains,Brown,Winter,Adrika Brown Necklace,39.96,17.58,0
+c354b34e5d5b2dea6889ae714861e8f1,fashion_roupa_masculina,fashion menswear,63,509,3,500,36,6,27,NA,11323.jpg,Men,Jeans,Blue,Fall,United Colors of Benetton Men Washed Blue Jeans,9.95,0.6,1
+f88e0d55c56301ce5e0d6d518c7f0598,fashion_calcados,fashion footwear,37,480,4,900,16,33,19,NA,21038.jpg,Women,Heels,Black,Fall,Clarks Women Balti Zing Black Heels,69.98,26.59,0
+1a57051039dca27521c83e2212042176,fashion_calcados,fashion footwear,40,303,12,500,29,7,16,NA,5916.jpg,Women,Casual Shoes,Black,Summer,ADIDAS Women Daily Black Shoe,99.96,37.98,0
+36fe62c1a0f657634af86b5bbf10f459,fashion_calcados,fashion footwear,53,408,5,1400,22,12,33,NA,43882.jpg,Women,Flats,White,Summer,Puma Women El Rey Slipon Stripes Wns White Flats,29.96,3.3,0
+1b0991f5c6be6a8de9ad8e1027ff67d7,fashion_roupa_masculina,fashion menswear,25,183,1,300,19,27,27,NA,24692.jpg,Men,Jeans,Black,Fall,Locomotive Men Black Jeans,9.95,0.8,1
+b8b642aae03f19310f2dbeccf772b5d4,fashion_roupa_feminina,fashion women's clothing,32,314,1,300,20,20,20,1,10401.jpg,Women,Tops,Purple,Fall,Jealous 21 Women Uaine Purple Tops,109.99,5.5,0
+63cf4d771cba1d380af927afe5895d4b,fashion_roupa_feminina,fashion women's clothing,42,367,6,350,16,5,20,1,11520.jpg,Women,Jeans,Black,Fall,United Colors of Benetton Women Denim Black Jeans,59.96,3.6,1
+4b2ab372456de58e4d5588f0fed9a065,fashion_roupa_masculina,fashion menswear,40,322,1,650,20,20,20,NA,21587.jpg,Men,Jeans,Blue,Fall,Spykar Men Washed Blue Jeans,19.96,2.59,0
+2748fba16a62f912134f7991548c3cee,malas_acessorios,bags accessories,35,363,1,3715,54,58,16,NA,48568.jpg,Women,Bracelet,Black,Summer,Lucera Women Black & Silver Bracelet,59.98,26.99,0
+6e02baf23db1455640241542c78be139,fashion_roupa_feminina,fashion women's clothing,58,341,1,900,25,5,17,1,7707.jpg,Women,Jeans,Black,Fall,Jealous 21 Women's Abbie Black Jegging,49.99,5.5,0
+cf06cedeb188baaa6ce7d01348cb19e9,fashion_calcados,fashion footwear,54,404,4,850,22,12,33,NA,43411.jpg,Women,Flats,Black,Summer,Puma Women Black Crazy Slide Flats,109.96,9.9,1
+5eccc2d95245db3260989916f2646afe,malas_acessorios,bags accessories,39,744,2,400,60,10,45,NA,12734.jpg,Women,Handbags,Black,Fall,Nike Women Samba Black Handbags,19.99,2.6,1
+3f6cfbf79bad1fd33c65e65cde20ab67,fashion_calcados,fashion footwear,57,404,4,800,22,12,33,NA,37966.jpg,Women,Heels,Gold,Fall,Clarks Women Gold-Toned Handcrafted Leather Heels,99.96,35.99,0
+17787817a9595579380dbad81feb561b,malas_acessorios,bags accessories,54,672,8,5800,50,40,15,NA,52305.jpg,Women,Necklace and Chains,Blue,Winter,ToniQ Women Blue Beaded Necklace,99.95,43.98,0
+9694310dd8c2910c9f91b5ac27ab77f2,fashion_calcados,fashion footwear,37,480,4,1100,16,33,19,NA,37968.jpg,Women,Heels,Turquoise Blue,Fall,Clarks Women Santa Rock Turquoise Blue Flats,79.98,28.79,0
+849bbcb8cdb844f1cb82330de929a1e5,malas_acessorios,bags accessories,48,595,2,1400,33,16,45,NA,19292.jpg,Women,Watches,White,Fall,Guess Women Mini Triangle White Dial Watch with Swarovski Elements W75030L1,39.96,19.18,0
+98ba4d6506268560a9b0a03b6ae02636,malas_acessorios,bags accessories,54,812,5,2700,19,49,34,NA,47957.jpg,Women,Handbags,Blue,Summer,Murcia Women Blue Handbag,49.97,6.5,0
+9ee0701e1be943cb92d9cd9305fdd026,malas_acessorios,bags accessories,45,331,2,3550,25,28,37,NA,37301.jpg,Women,Watches,Black,Summer,Casio Enticer Women Black Analogue Watches (A531) LTP-2083L-1AVDF,29.95,12.58,0
+2020db9c389956e879dd05e6250413d8,malas_acessorios,bags accessories,24,519,5,4000,38,52,22,NA,19289.jpg,Women,Watches,Purple,Fall,Guess Women Grey Dial Watch with Swarovski Elements W70036L4,19.95,8.98,0
+b6eb2752e40bb6f33a3b608e78f5ffec,fashion_roupa_masculina,fashion menswear,36,940,2,300,16,2,11,NA,12246.jpg,Men,Shirts,Black,Winter,Genesis Black Striped Formal Shirt,109.99,4.4,0
+34476af6d3d70a896db8dc512f43d627,malas_acessorios,bags accessories,45,348,4,450,25,40,11,NA,58176.jpg,Women,Handbags,Green,Fall,Rocky S Women Green Handbag,39.99,1.6,0
+4fa0d1019affe5fe2c492c00422f01d8,fashion_roupa_masculina,fashion menswear,56,362,1,450,16,16,16,NA,2135.jpg,Men,Shirts,Red,Spring,Basics Men Red & Blue Slim Fit Shirt,19.97,2.4,0
+8cd9fd2917c6e1b0f29acae309d564fe,malas_acessorios,bags accessories,45,223,1,800,47,10,32,NA,35138.jpg,Women,Bracelet,Black,Summer,Allen Solly Woman Black Bangle,49.99,21,1
+dec0886d6479d5bdb56d856c501e01c2,malas_acessorios,bags accessories,60,295,2,875,16,46,38,NA,19780.jpg,Women,Handbags,Blue,Fall,United Colors of Benetton Women Blue Handbag,79.96,10.39,0
+e69d971f8bf365efb842b0d56f960682,fashion_roupa_masculina,fashion menswear,35,325,2,400,30,5,30,NA,12751.jpg,Men,Jeans,Blue,Fall,Spykar Men Ep Jeans Blue Jeans,119.95,8.4,1
+524a212245455ed22be931dc838b37fa,fashion_calcados,fashion footwear,47,647,3,950,20,9,21,NA,3842.jpg,Women,Flats,Pink,Summer,Crocs Women Lady Bubblegum Pink Sandal,99.96,4,0
+fd92a7f41be98d0580faa2e6683b4ca0,malas_acessorios,bags accessories,52,1042,1,4403,36,60,26,NA,46165.jpg,Women,Necklace and Chains,Multi,Summer,Adrika Women Multi Coloured Necklace,19.99,8.8,1
+dd37c35adc95b77dd3124c71fcca0c29,malas_acessorios,bags accessories,35,394,2,1150,40,30,20,NA,46162.jpg,Women,Necklace and Chains,Brown,Winter,Adrika Women Brown Necklace,59.97,28.79,0
+c8e902a9fd219512cc3fc5353a829e8a,malas_acessorios,bags accessories,50,604,1,150,40,10,30,NA,12733.jpg,Women,Handbags,Pink,Fall,Nike Women Pinkaland Pink Handbags,39.97,1.6,0
+6c3f9c870ff6e96ad4f4511602078fb0,malas_acessorios,bags accessories,59,318,3,5750,17,48,42,NA,47334.jpg,Women,Handbags,Olive,Fall,Baggit Women Olive Handbag,99.99,11,0
+aa720f8684a8fc318f7a22c52c02a2dc,malas_acessorios,bags accessories,30,580,1,1600,34,48,17,NA,15439.jpg,Women,Handbags,Black,Fall,Hidekraft Women Leather Black Handbags,29.99,3.9,1
+1f05dcc70c1a19407641eccea8ef3bdc,fashion_roupa_feminina,fashion women's clothing,60,341,1,1700,25,10,17,1,37223.jpg,Women,Tops,Blue,Summer,United Colors of Benetton Women Blue Top,19.98,1.8,1
+fb7eda79f009c621d394406fc3c28d5c,fashion_calcados,fashion footwear,54,451,5,3000,36,37,16,NA,6391.jpg,Women,Flats,Grey,Summer,Lotto Women Sofia Pink Black Floater,9.97,1.1,1
+c389f712c4b4510bc997cee93e8b1a28,malas_acessorios,bags accessories,41,500,1,2965,41,27,34,NA,9924.jpg,Women,Handbags,Black,Fall,Puma Women Black Avenue Shopper Handbag,9.96,1.29,0
+693cf0e43d6a106df00fb14bd62d0d3c,malas_acessorios,bags accessories,38,417,1,1100,40,10,30,NA,53087.jpg,Women,Necklace and Chains,Green,Winter,Fabindia Green Necklace,29.96,12.88,1
+19ff2d1670779cdd13a453274509bc1c,fashion_roupa_masculina,fashion menswear,43,412,1,300,35,30,20,NA,2132.jpg,Men,Shirts,Brown,Spring,Basics Men Brown Slim Fit Shirt,69.98,8.4,0
+657247f6f60543b93e3cc708a8e6329c,malas_acessorios,bags accessories,53,526,2,18050,75,20,50,NA,47419.jpg,Women,Handbags,Black,Fall,Baggit Women Black Handbag,9.96,1,0
+fbb280a5758e5cb3b4f72e652794103d,malas_acessorios,bags accessories,57,271,2,16050,60,40,40,NA,53089.jpg,Women,Necklace and Chains,Silver,Winter,Fabindia Silver Necklace,39.98,19.19,0
+9d47dddcc5eb825534e212b1b927385f,fashion_roupa_masculina,fashion menswear,60,275,1,800,40,6,35,NA,2104.jpg,Men,Shirts,Blue,Winter,Lee Men Checks Red Shirt,59.99,5.4,0
+3a4615e315386cd6bdbb427b3a570e42,malas_acessorios,bags accessories,47,411,3,1250,32,52,19,NA,46122.jpg,Women,Necklace and Chains,Silver,Summer,Adrika Silver Coloured Necklace,79.97,35.99,0
+84bc1370758fa98d08afd0180818217a,fashion_roupa_masculina,fashion menswear,46,1208,2,1050,31,22,33,NA,2103.jpg,Men,Shirts,White,Winter,Lee Men Checks White Shirt,119.96,4.8,0
+005c6b24cc96dca3e2c01e824401030e,fashion_roupa_masculina,fashion menswear,33,384,1,400,17,7,20,NA,56846.jpg,Men,Jeans,Blue,Fall,John Players Men Blue Jeans,119.95,15.59,0
+405beab43803e68c26263d0ee804fe7e,malas_acessorios,bags accessories,41,156,1,6700,50,20,40,NA,53093.jpg,Women,Necklace and Chains,Green,Winter,Fabindia Green Necklace,69.99,33.6,0
+09bdc9003e3b369d49feb3e300366074,fashion_roupa_masculina,fashion menswear,28,572,2,800,45,10,35,NA,11294.jpg,Men,Jeans,Blue,Spring,Wrangler Men Blue Floyd Jeans,19.95,2.39,0
+750e3a9d8289e451a68398b2c697f119,malas_acessorios,bags accessories,58,1504,3,3000,37,29,30,NA,59263.jpg,Women,Watches,Silver,Winter,Titan Women Silver Watch,89.96,40.48,1
+418c8127e2810370323241e326874320,fashion_roupa_masculina,fashion menswear,44,412,2,300,35,30,20,NA,2126.jpg,Men,Shirts,White,Spring,Basics MenNavy Slim Fit Checked Shirt,59.98,4.8,0
+1da4c75f3ccfdd3e7f3416b5b0aa0f5e,malas_acessorios,bags accessories,46,207,2,4219,41,52,29,NA,46125.jpg,Women,Necklace and Chains,Turquoise Blue,Winter,Adrika Turquoise Blue Necklace,99.95,41.98,0
+618a8dac41d5f04a248927a5f44c1f13,fashion_calcados,fashion footwear,63,306,3,1100,33,19,12,NA,15499.jpg,Women,Heels,Red,Spring,Carlton London Women Casual Red Stilettos,99.96,37.98,0
+6beae1a9c914c4e2ca45868d6317a27e,fashion_calcados,fashion footwear,54,404,4,1400,22,12,33,NA,33531.jpg,Women,Casual Shoes,Black,Summer,Cobblerz Women Black Loafers,59.99,22.8,0
+aede48631330269f65a8d680de491657,malas_acessorios,bags accessories,45,573,1,1400,48,10,33,NA,46123.jpg,Women,Necklace and Chains,Black,Summer,Adrika Black Necklace,99.98,43.99,0
+245d6fd93f56b9e997881f397fbca833,fashion_roupa_masculina,fashion menswear,43,624,4,700,45,10,35,NA,6782.jpg,Men,Shirts,Blue,Winter,Timberland Men Claremont Green and Blue Check Shirt,79.95,6.4,1
+cb745afa9f4712ffed17951799ff15a9,fashion_roupa_masculina,fashion menswear,22,367,2,400,17,7,20,NA,11293.jpg,Men,Jeans,NA,Fall,Wrangler Men Blue Texas Jeans,59.95,7.79,0
+e03f4e4044f06ae9349b2f891e614923,fashion_roupa_feminina,fashion women's clothing,40,1628,2,500,60,60,15,1,32597.jpg,Women,Tops,Black,Summer,ONLY Women Black Top,49.97,6,0
+f99e92b9472a8d08d27cfc7e98292b42,malas_acessorios,bags accessories,57,1230,5,900,25,50,40,NA,46170.jpg,Women,Necklace and Chains,Black,Summer,Adrika Black Necklace,59.98,25.79,1
+fd0731561b291a28f6a3a189e86a1107,malas_acessorios,bags accessories,49,290,1,800,22,44,38,NA,43271.jpg,Women,Handbags,Black,Spring,Murcia Women Black Handbag,9.98,0.9,1
+c1d98cc08467aa0204c5a1095da83df4,malas_acessorios,bags accessories,50,683,5,15500,40,60,25,NA,59498.jpg,Women,Necklace and Chains,Silver,Summer,Lucera Silver Tarika Necklace,89.97,40.49,0
+f0b7332bf477f047972f58a8d70942ce,fashion_calcados,fashion footwear,50,375,6,200,29,7,16,NA,47624.jpg,Women,Heels,Maroon,Fall,Portia Women Maroon Flats,139.99,53.2,0
+ae7a0b7f28e53b07d86e85f796d6e6de,fashion_calcados,fashion footwear,40,303,12,500,29,7,16,NA,45378.jpg,Women,Flats,Black,Summer,Rocia Women Black Sandals,9.95,0.9,0
+a1507b98cd821fad51fcfa3e9a95e94e,malas_acessorios,bags accessories,33,1193,1,24500,37,80,60,NA,51658.jpg,Women,Watches,Copper,Winter,Fossil Women Copper Chronograph Watch CH2589,99.99,45,0
+2c84220fe9da006b23135d32964d10ec,malas_acessorios,bags accessories,44,284,1,1400,36,19,36,NA,14863.jpg,Women,Necklace and Chains,Red,Summer,United Colors of Benetton Women Three Strands Red Necklace,19.99,8.4,0
+8a3cc0bbd52a7985b211643c48ceff4d,malas_acessorios,bags accessories,49,114,1,600,30,10,35,NA,2365.jpg,Women,Handbags,Pink,Spring,ADIDAS Pink Women Bag,109.95,9.9,1
+f97b8c47571a82c23473ff139b8a58e5,malas_acessorios,bags accessories,60,3043,6,16700,41,76,50,NA,57263.jpg,Women,Handbags,Cream,Spring,Murcia Blue & Cream Handbag,109.96,12.1,1
+16afd9cf37e1b340bc46822fdd8240aa,malas_acessorios,bags accessories,23,404,1,1000,32,47,12,NA,26182.jpg,Women,Handbags,Beige,Spring,Rocia Women Beige Casual Sandals,109.96,8.8,1
+218de70a5a63ca13ad448aa4706d8ce1,fashion_calcados,fashion footwear,46,182,1,500,33,19,16,NA,47623.jpg,Women,Heels,Black,Fall,Portia Women Black Flats,89.96,29.69,0
+4d58a1ff101eae5005f818b97740335e,fashion_calcados,fashion footwear,54,404,3,950,22,12,33,NA,47640.jpg,Women,Casual Shoes,Brown,Winter,Carlton London Women Brown Shoes,119.98,35.99,0
+f1b094f93ebed1272928238b76d8933b,fashion_calcados,fashion footwear,57,404,4,800,22,12,33,NA,5343.jpg,Women,Casual Shoes,Blue,Winter,Skechers Women Blue Teal Shoe,139.97,41.99,0
+71fa3ded050dac9c89b71383bbe4df76,fashion_calcados,fashion footwear,40,303,12,400,29,7,16,NA,59146.jpg,Women,Heels,Black,Fall,Tiptopp Women Black Sandals,139.96,55.98,1
+72c4031dab551c0441689706d58957a1,fashion_calcados,fashion footwear,50,375,6,200,29,7,16,NA,20777.jpg,Women,Flats,Gold,Fall,Carlton London Women Classy Gold Sandals,9.99,0.6,1
+6b9d0e95cad6725dcb7bc0c04a382c8f,malas_acessorios,bags accessories,47,218,1,1300,47,10,31,NA,14862.jpg,Women,Necklace and Chains,Coffee Brown,Summer,United Colors of Benetton Women Mettalic Coffee Brown Necklace,19.99,9.2,0
+bf1bb2f928a69aae75cb2e23f9516116,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,13549.jpg,Women,Casual Shoes,Grey,Spring,Carlton London Women Casual Grey Casual Shoes,139.96,44.79,0
+ef43ce667e1a98728fd045dce7162c86,fashion_roupa_feminina,fashion women's clothing,29,509,2,700,20,12,20,1,57100.jpg,Women,Tops,Pink,Summer,Elle Women Dark Pink Top,99.97,13,0
+4c8002ad563bfab901da64be8d88f550,malas_acessorios,bags accessories,56,1435,2,850,20,50,40,NA,54853.jpg,Women,Necklace and Chains,Gold,Summer,Ivory Tag Women Double Beaded Lavender Necklace,19.97,8.79,0
+8b9f7fc148edbc07e1ce6dce23984f3d,malas_acessorios,bags accessories,38,1380,1,1087,39,28,33,NA,35899.jpg,Women,Handbags,Brown,Spring,Peperone Women Brown Handbag,109.96,13.2,0
+c7280bb32453a1088b2fe0817b42cdfb,malas_acessorios,bags accessories,57,1022,3,9175,30,36,46,NA,58266.jpg,Women,Handbags,Silver,Spring,Baggit Women Grey Handbag,99.96,10,0
+3bcb870fe5c8598df95b30780d2adaed,malas_acessorios,bags accessories,55,886,2,14000,38,28,56,NA,54854.jpg,Women,Necklace and Chains,Pink,Summer,Ivory Tag Women Delectable Pink Necklace,29.97,14.39,0
+0fa3e881b0014107d46c7fb9d55fd685,fashion_esporte,fashion sport,55,511,2,200,16,12,12,1,34835.jpg,Men,Sports Shoes,Blue,Summer,ADIDAS Men Blue Chill Sports Shoes,59.97,22.19,0
+4621f88827b983332c2a833d49c2ae35,malas_acessorios,bags accessories,40,390,3,19250,32,76,50,NA,47129.jpg,Women,Handbags,Blue,Spring,Be For Bag Women Blue Tote Bag,49.96,2,1
+0b4b0cc10d659c9885f317ff1b4f4ea8,fashion_calcados,fashion footwear,49,375,6,300,29,7,16,NA,23795.jpg,Women,Flats,Black,Fall,Clarks Women Black Cocoa Creme Shoes,79.98,6.4,0
+4353af36fe588dc73497fa158ed6cefb,malas_acessorios,bags accessories,22,464,6,17200,45,70,25,NA,42867.jpg,Women,Handbags,Black,Spring,French Connection Women Black Winter Quilt Cross Sling Bag,109.95,9.9,1
+6f1ee01920f8b1cbbcd807debfbb2ace,fashion_roupa_masculina,fashion menswear,28,696,2,400,16,2,11,NA,14121.jpg,Men,Jeans,Blue,Winter,Flying Machine Washed Blue Jeans,29.97,1.5,1
+5245dad16589e03f45e496de427b578a,malas_acessorios,bags accessories,49,607,1,900,18,51,35,NA,44984.jpg,Women,Watches,White,Winter,Maxima Women White Dial Watch,89.95,39.58,1
+2b62c18e1379676edad99be2c9bf9a9d,malas_acessorios,bags accessories,31,664,2,850,23,19,20,NA,48311.jpg,Women,Bracelet,Bronze,Winter,Pitaraa Women Bronze Beaded Bracelet,79.95,36.78,1
+79a564cca1924553af76d396bf7c0662,malas_acessorios,bags accessories,32,431,2,483,24,25,29,NA,59518.jpg,Women,Necklace and Chains,Silver,Summer,Lucera Bead Necklace,69.97,32.19,0
+f39288f58793ce5e6985b3f7832af88c,fashion_calcados,fashion footwear,40,303,12,300,29,7,16,NA,13562.jpg,Women,Heels,Purple,Spring,Carlton London Women Casual Purple Flats,109.97,40.69,0
+ff3ac832869618856979ed4f8d770d4d,malas_acessorios,bags accessories,45,224,1,800,41,10,30,NA,47359.jpg,Women,Handbags,Brown,Summer,Baggit Women Brown Handbag,9.99,0.9,1
+c2ccd192fdac0a564ea52ec8687b3093,fashion_roupa_masculina,fashion menswear,34,1328,2,900,30,6,30,NA,41349.jpg,Men,Jeans,Blue,Spring,Wrangler Men Blue Skanders Jeans,9.95,0.5,0
+1cab19d5be9a1286428e85aaebf82906,malas_acessorios,bags accessories,58,1057,3,950,35,12,25,NA,49005.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,19.99,8.8,0
+827abcada2c9f7862ef735fd765b87b1,fashion_calcados,fashion footwear,50,375,6,300,29,7,16,NA,20779.jpg,Women,Flats,Gold,Fall,Carlton London Women Classy Gold Sandals,99.99,5,1
+79c619b1a012a01b9280d686b5938fa1,malas_acessorios,bags accessories,43,712,5,900,30,40,20,NA,25947.jpg,Women,Scarves,Brown,Summer,Femella Women Brown Scarf,39.98,2.8,1
+8b550a4d1a4ced88dce0f9ff85887e79,fashion_calcados,fashion footwear,57,404,4,750,22,12,33,NA,26631.jpg,Women,Casual Shoes,Black,Spring,Puma Women Winning Diva Ballerina Black Casual Shoes,129.99,48.1,0
+3b967178828b90699459383919d5d53b,malas_acessorios,bags accessories,60,2494,5,21400,32,77,52,NA,21977.jpg,Women,Handbags,Brown,Winter,Murcia Women Casual Brown Handbag,69.97,3.5,0
+48c50c7181ca1507017447595d399b8f,malas_acessorios,bags accessories,51,870,2,900,40,20,30,NA,35128.jpg,Women,Bracelet,Purple,Winter,Allen Solly Woman Purple Bangle,29.98,14.39,0
+98de98bcd25120495ad55c516a11a531,malas_acessorios,bags accessories,60,742,2,1400,50,50,20,NA,48927.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,29.95,13.78,0
+3279fec9ed308116c0546336bf7741f6,fashion_roupa_masculina,fashion menswear,55,1241,2,300,16,2,11,NA,36852.jpg,Men,Shirts,Blue,Winter,Spykar Men Passion Blue Shirt,19.97,1.2,1
+34eb0685663d60e57a9ca086c8e33423,fashion_calcados,fashion footwear,55,344,3,1850,36,37,16,NA,45379.jpg,Women,Flats,White,Spring,Rocia Women White & Brown Sandals,99.95,5,0
+191bd142a00d0d95fa54118635886d9e,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,13704.jpg,Women,Flats,Beige,Fall,Clarks Women Prize Club Beige Wedges,99.99,10,0
+7315c8b2fdde9b7ce4e9fb30ddde010b,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,53727.jpg,Women,Casual Shoes,Black,Spring,Puma Women Black Motorina Casual Shoes,59.96,17.99,0
+608af629c5b520efe1caf06e1cfc4abc,malas_acessorios,bags accessories,50,953,1,18050,53,77,33,NA,48320.jpg,Women,Bracelet,Silver,Winter,Pitaraa Silver Omelette Thin Bracelet,99.99,43,0
+3b465c153d8169658a47350cdf2e5f14,fashion_roupa_masculina,fashion menswear,30,777,1,400,20,17,15,NA,14127.jpg,Men,Jeans,Blue,Winter,Flying Machine Men Washed Blue Jeans,19.97,2.6,1
+814db92f0cda8c71fa27f4b022cea56f,fashion_calcados,fashion footwear,34,240,12,200,29,7,16,NA,15491.jpg,Women,Heels,Nude,Spring,Carlton London Women Nude Heels,59.98,19.19,0
+d9d5e3c7a8d24dfb8968ba75e4313ac3,malas_acessorios,bags accessories,47,114,1,1150,35,10,34,NA,25940.jpg,Women,Scarves,Yellow,Summer,Femella Women Yellow & Blue Scarf,89.99,9,0
+8e8bcc3a0043f514854cb1a9959ec9d2,malas_acessorios,bags accessories,48,1086,1,700,90,5,11,NA,25949.jpg,Women,Scarves,Brown,Summer,Femella Women Printed Brown Scarf,59.96,4.2,0
+1f60570b3795d85b7b2a879f921e06bd,malas_acessorios,bags accessories,48,206,2,350,20,20,20,NA,48585.jpg,Women,Bracelet,Silver,Summer,Lucera Women Silver Bracelet,99.99,43,1
+003962cb74a8b43cf1034fed541a76f0,malas_acessorios,bags accessories,55,214,1,1000,16,46,36,NA,58183.jpg,Women,Handbags,White,Summer,Rocky S Women White Handbag,89.98,3.6,0
+f133fa2c8b27d82aab5e1a10df7012de,malas_acessorios,bags accessories,45,217,1,700,45,10,31,NA,35322.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,39.96,18.38,0
+f775e44f7a8609df5fc7a00faa8b458e,fashion_calcados,fashion footwear,57,404,4,1500,22,12,33,NA,15505.jpg,Women,Casual Shoes,Brown,Spring,Carlton London Women Casual Brown Casual Shoes,129.99,42.9,0
+80a29790293a83b877cb353f5ae338e1,fashion_roupa_masculina,fashion menswear,43,973,2,600,35,35,15,NA,11289.jpg,Men,Jeans,Blue,Spring,Wrangler Men Blue Texas Jeans,69.96,9.09,0
+0b5c0ecd14105464e2b879a307092e3f,malas_acessorios,bags accessories,49,114,1,650,30,10,32,NA,49034.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,29.98,12.59,0
+c4334dbbe9c97c0eb165debf7132c689,malas_acessorios,bags accessories,48,1012,1,850,17,37,28,NA,42614.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Earrings & Pendant Set,29.97,12.59,1
+b7e087ab49f42ad0fe758f399f4e7077,fashion_roupa_masculina,fashion menswear,28,364,2,400,16,16,16,NA,2128.jpg,Men,Shirts,White,Spring,Basics Men Red & White Slim Fit Shirt,99.99,7,0
+6d8e78c479334cba03552e61a97eca2e,fashion_roupa_feminina,fashion women's clothing,40,1066,2,1000,27,12,23,1,51497.jpg,Women,Jeans,Navy Blue,Summer,Denizen Women Navy Blue Jeans,79.97,3.2,0
+f983c7d6b7976d13c8eb72774fbe9611,fashion_roupa_masculina,fashion menswear,43,933,2,500,35,35,15,NA,11308.jpg,Men,Jeans,Black,Spring,Wrangler Men Black Jim Slim Fit Jeans,49.97,2.5,1
+e29d3ed26171c32d0c88c28884a5dc31,fashion_calcados,fashion footwear,54,404,4,700,22,12,33,NA,41469.jpg,Women,Casual Shoes,Cream,Spring,Carlton London Women Cream Shoes,119.97,41.99,0
+3bc1b27ebc43f46dcb6aace1b65325a7,malas_acessorios,bags accessories,43,783,1,900,19,51,36,NA,56214.jpg,Women,Earrings,Gold,Winter,Estelle Women Gold Earrings,39.96,17.98,0
+4aeb131af29214bc1737bdaef327240d,fashion_calcados,fashion footwear,54,404,4,1400,22,12,33,NA,20754.jpg,Women,Heels,Black,Spring,Carlton London Women Black Heels,69.97,22.39,0
+793dc6416cb7c57351e27eec5ee69f5b,fashion_calcados,fashion footwear,43,649,3,1050,21,9,22,NA,41468.jpg,Women,Casual Shoes,Olive,Spring,Carlton London Women Olive Shoes,109.97,41.79,0
+46195ad0b1fda769ee883a305ac7eb66,malas_acessorios,bags accessories,42,444,2,800,40,10,40,NA,53108.jpg,Women,Earrings,Silver,Winter,Fabindia Silver Earrings,69.96,33.58,1
+e528f35cc19bd2f9707138bb82a2c933,malas_acessorios,bags accessories,55,665,3,900,19,50,34,NA,48929.jpg,Women,Ring,Silver,Fall,Lucera Women Silver Ring,69.96,31.48,0
+55624051e913597daf59dee5c582b6b9,fashion_calcados,fashion footwear,54,404,4,850,22,12,33,NA,13546.jpg,Women,Flats,Gold,Spring,Carlton London Women Gold Toned Flats,119.97,14.4,1
+242edc6b84c00f0d48c664a020a92c52,malas_acessorios,bags accessories,39,131,1,500,23,45,32,NA,48318.jpg,Women,Bracelet,Silver,Winter,Pitaraa Silver Omelette Thin Bracelet,59.99,28.8,0
+df371be2e5f40ffec4285926ae7ebcd1,fashion_calcados,fashion footwear,57,655,3,1150,22,9,22,NA,10621.jpg,Women,Flats,Silver,Spring,Carlton London Women Silver Solid Open Toe,109.95,6.6,0
+ac942b3f5756151f9dea022e7058d7c9,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,47637.jpg,Women,Heels,Yellow,Spring,Carlton London Women Yellow Peep Toes,89.95,26.99,1
+2b301a96f8ae692b3157360f621b658f,malas_acessorios,bags accessories,57,605,9,210,17,22,11,NA,56213.jpg,Women,Earrings,Gold,Winter,Estelle Women Gold Earrings,79.97,36.79,1
+dce3d94fd2f5d6d78c586d93faa33646,malas_acessorios,bags accessories,52,560,7,800,30,15,15,NA,52224.jpg,Women,Necklace and Chains,Silver,Summer,Lencia Grey Swarovski Pearl Necklace,29.99,13.8,0
+1c687f9714b91f95caf2727cf84e5be3,fashion_calcados,fashion footwear,40,303,12,500,29,7,16,NA,41466.jpg,Women,Casual Shoes,Brown,Spring,Carlton London Women Brown Shoes,69.96,27.98,1
+b9732f4c0f20039130f5ff8cea1c2cb3,malas_acessorios,bags accessories,55,576,3,5400,90,9,39,NA,29742.jpg,Women,Handbags,Teal,Summer,Kiara Women Teal Handbag,119.95,12,0
+9c3e030eb36047b2a7610a613b945642,malas_acessorios,bags accessories,39,855,1,550,16,30,20,NA,35325.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,29.97,13.49,0
+75baeeacdb53150ac063abf52e4acaa7,malas_acessorios,bags accessories,33,503,9,250,23,26,15,NA,25948.jpg,Women,Scarves,Green,Summer,Femella Women Green Scarf,19.99,1.8,0
+ccb3d3835758ca91130e00c46c3c11bb,fashion_esporte,fashion sport,45,219,2,250,18,12,12,1,25448.jpg,Men,Sports Sandals,Black,Summer,Nike Men Black Air Deschutz Sandals,69.98,23.09,1
+77b544530b2a38fff1b3af62cfe355d8,malas_acessorios,bags accessories,52,1472,10,1000,30,15,15,NA,25941.jpg,Women,Scarves,Yellow,Summer,Femella Women Yellow & Brown Scarf,19.97,2,1
+6109d0cae3bcb57d579bc0fab6e61814,malas_acessorios,bags accessories,45,573,1,1250,49,10,34,NA,42841.jpg,Women,Handbags,Beige,Summer,French Connection Women Beige Handbag,69.99,8.4,0
+fa35b4bf358c776e80d08e8079dc1d4e,fashion_roupa_masculina,fashion menswear,37,416,1,300,35,30,11,NA,12263.jpg,Men,Shirts,Red,Winter,Genesis Red Striped Formal Shirt,9.99,1,0
+5ab836116525006a1a417c5c24091e2f,malas_acessorios,bags accessories,46,237,1,600,45,10,33,NA,42613.jpg,Women,Jewellery Set,Gold,Winter,Estelle Women Gold Earring & Pendant Set,39.95,17.98,0
+bc0d2d816d425e6ce3e80d8b9887d324,fashion_roupa_feminina,fashion women's clothing,58,360,4,500,16,5,20,1,19578.jpg,Women,Tops,Purple,Summer,United Colors of Benetton Women Solid Purple Top,79.96,5.6,0
+c977ac034427790e883ab55f4baa68c2,fashion_calcados,fashion footwear,57,404,4,750,22,12,33,NA,10619.jpg,Women,Flats,Silver,Spring,Carlton London Women Silver Flats,39.98,2,0
+22656f41604127818c5984157e52bda8,fashion_roupa_masculina,fashion menswear,25,191,1,500,20,10,17,NA,33787.jpg,Men,Shirts,Brown,Spring,Van Heusen Men Brown Giza Cotton Shirt,89.97,9.9,0
+58b81e95d79fc90308246d12ef1e2688,malas_acessorios,bags accessories,59,561,7,1850,32,52,19,NA,43703.jpg,Women,Jewellery Set,Red,Summer,Royal Diadem Red Earring & Pendant Set,49.98,21.49,0
+f690f2a1b0ea0a320db18661b6f24b6f,fashion_calcados,fashion footwear,54,404,4,650,22,12,33,NA,15494.jpg,Women,Casual Shoes,Maroon,Spring,Carlton London Women Casual Maroon Casual Shoes,129.95,48.08,0
+002159fe700ed3521f46cfcf6e941c76,fashion_calcados,fashion footwear,55,344,3,1850,36,37,16,NA,13548.jpg,Women,Heels,Green,Spring,Carlton London Women Casual Green Flats,69.97,23.09,1
+f0bbc1bdaf90ddcab4aa862660dfc6d3,malas_acessorios,bags accessories,60,993,3,650,65,7,11,NA,25946.jpg,Women,Scarves,Brown,Summer,Femella Women Brown Scarf,69.96,3.5,0
+5f2ad53b751662e4c54dceffadb3804d,fashion_esporte,fashion sport,49,219,2,300,18,12,12,1,44440.jpg,Men,Sports Sandals,Black,Fall,Gliders Men Black Davis Sports Sandals,129.98,50.69,0
+ac4a3657d893bc4a404bed0131b265a5,fashion_roupa_masculina,fashion menswear,30,183,1,150,19,27,27,NA,2129.jpg,Men,Shirts,Green,Spring,Basics Men Green Slim Fit Checked Shirt,19.98,1.2,0
+e209d220eede88d11b0dd048529e6716,malas_acessorios,bags accessories,52,1430,8,700,20,50,40,NA,35313.jpg,Women,Earrings,Silver,Winter,Fabindia Women Anusuya Silver Earrings,69.97,32.89,1
+a13374144d7adf59d766eee43e93b849,malas_acessorios,bags accessories,38,905,3,700,42,8,33,NA,53101.jpg,Women,Earrings,Silver,Winter,Fabindia Silver Drop Earrings,39.98,19.19,0
+2819e0fe205e3a81329782eb5fb274db,fashion_roupa_feminina,fashion women's clothing,46,110,1,300,30,10,25,1,43509.jpg,Women,Dresses,Grey Melange,Summer,French Connection Women Grey Melange Dress,49.99,5.5,0
+b238fb795411250d25c065c35bd330be,malas_acessorios,bags accessories,40,354,4,500,40,30,11,NA,11142.jpg,Women,Scarves,Blue,Fall,Scullers Women Solid Blue Scarves,79.98,4,0
+4ef55cfc0052b8c8c9313fd35d00289c,malas_acessorios,bags accessories,47,114,1,700,35,10,34,NA,42625.jpg,Women,Earrings,Silver,Winter,Estelle Women Earrings,59.97,27.59,0
+ab481d9ef0fb9cab12778cdf56564ff7,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,47636.jpg,Women,Heels,Red,Spring,Carlton London Women Red Peep Toes,79.95,31.18,0
+3fc0df95e5b295f37ad821902cfd4a33,fashion_calcados,fashion footwear,37,480,4,1100,16,33,19,NA,42696.jpg,Women,Flats,Silver,Spring,Rocia Women Silver Sandals,49.99,4.5,1
+4a1ccd2d546bbea7809a0cf98863eb50,malas_acessorios,bags accessories,43,1480,5,900,25,50,30,NA,49033.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,39.95,18.38,0
+3df02779fb868fabf6f42649c50b6046,malas_acessorios,bags accessories,44,215,1,700,46,10,36,NA,48942.jpg,Women,Ring,Silver,Summer,Lucera Women Silver Ring,89.97,39.59,0
+16197dbfbd978dcb5cd7ce71e756a549,malas_acessorios,bags accessories,38,238,1,700,16,40,30,NA,48570.jpg,Women,Bracelet,Black,Summer,Lucera Women Black & Silver Bracelet,19.98,9.19,1
+163ba96993ec61eac36239e7301827c4,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,11503.jpg,Women,Heels,Blue,Spring,Catwalk Women Lifestyle Blue Flats,69.98,22.39,0
+24dea9b9a1d450d96702d46a0a835ff3,fashion_roupa_masculina,fashion menswear,38,50,1,400,30,40,11,NA,41889.jpg,Men,Jeans,Blue,Winter,Flying Machine Men Blue Slim Fit Mid-Rise Clean Look Jeans,9.98,1,1
+1b4dee3e58cb87cb5a0acc54ea53db9d,fashion_calcados,fashion footwear,54,404,4,800,22,12,33,NA,47633.jpg,Women,Casual Shoes,Magenta,Spring,Carlton London Women Magenta Shoes,99.99,34,0
+f0f464c1300173b9ed4aeacf16840936,malas_acessorios,bags accessories,42,340,4,550,16,20,15,NA,48319.jpg,Women,Bracelet,Gold,Winter,Pitaraa Golden Omelette Thin Bracelet,29.95,14.08,0
+d0106a541ba786ea96c44efe52e10bf4,fashion_calcados,fashion footwear,46,649,2,900,17,8,19,NA,41467.jpg,Women,Flats,Brown,Spring,Carlton London Women Brown Solid Suede Ballerinas,69.95,7,1
+ba1cc0f3f26616d7ad90de1085bdfeda,malas_acessorios,bags accessories,33,280,4,900,23,22,35,NA,58141.jpg,Women,Earrings,Silver,Fall,Rreverie Silver Earrings,19.96,9.18,1
+cf6b03b7b6a0d499505b4342f06e5f80,fashion_esporte,fashion sport,46,219,2,250,18,12,12,1,18598.jpg,Men,Sports Sandals,Navy Blue,Fall,Puma Men Navy Blue  Drifter Cat Flip flops,59.99,22.8,0
+a5620dbc470a8e3ec837aaf1bbd48eb8,fashion_calcados,fashion footwear,48,375,6,200,29,7,16,NA,58818.jpg,Women,Casual Shoes,Black,Spring,Skechers Women Black Casual Shoes,129.95,49.38,0
+e12569a1ad365c9f77fb1ae6d5de26e8,fashion_roupa_masculina,fashion menswear,40,1145,3,700,20,20,20,NA,2127.jpg,Men,Shirts,Red,Spring,Basics Men Red Slim FitChecked Shirt,119.99,8.4,0
+e82a3702b491473198cf2db779f78e52,fashion_calcados,fashion footwear,57,404,4,1400,22,12,33,NA,58816.jpg,Women,Casual Shoes,Purple,Spring,Skechers Women Purple Casual Shoes,59.95,17.99,0
+819fc0e9c061a08bac3d5044eb92b173,malas_acessorios,bags accessories,59,320,1,850,20,44,39,NA,59780.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,49.99,24,0
+d7252737cad49d030f9ce83b50249120,malas_acessorios,bags accessories,48,883,9,2350,32,52,19,NA,43704.jpg,Women,Jewellery Set,Green,Summer,Royal Diadem Green Earring & Pendant Set,19.98,8.59,0
+b0498e44190727b728ae4490f2e9b6a5,malas_acessorios,bags accessories,25,712,4,5250,34,23,40,NA,52223.jpg,Women,Necklace and Chains,White,Fall,Lencia White Swarovski Pearl Necklace,89.95,42.28,0
+0505f239830b15ffbd923b4113a96855,malas_acessorios,bags accessories,44,503,8,250,20,26,15,NA,56198.jpg,Women,Bracelet,Gold,Winter,Estelle Women Gold Bracelet,49.99,21.5,0
